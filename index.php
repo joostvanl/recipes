@@ -16,15 +16,7 @@ $flash = flash_get();
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
     <link href="lib/theme.css" rel="stylesheet">
-    <style>
-        /* Test styles to verify CSS is working */
-        .test-css {
-            background: red !important;
-            color: white !important;
-            padding: 10px !important;
-            margin: 10px 0 !important;
-        }
-    </style>
+
 </head>
 <body>
     <nav class="navbar navbar-expand-lg bg-body-tertiary border-bottom" style="background: var(--surface)">
@@ -43,7 +35,7 @@ $flash = flash_get();
             </div>
         <?php endif; ?>
         
-        <div class="test-css">CSS Test - If you see this with red background, CSS is working</div>
+
         <section class="hero p-4 p-md-5 mb-4">
             <div class="d-flex flex-column flex-md-row align-items-start align-items-md-center gap-3">
                 <div class="flex-grow-1">
@@ -75,9 +67,10 @@ $flash = flash_get();
             foreach ($allRecipes as $recipe) {
                 if (!empty($recipe['tags']) && is_array($recipe['tags'])) {
                     foreach ($recipe['tags'] as $tag) {
-                        $tag = trim(strtolower($tag));
+                        $tag = trim($tag);
                         if (!empty($tag)) {
-                            $tagCounts[$tag] = ($tagCounts[$tag] ?? 0) + 1;
+                            $tagLower = strtolower($tag);
+                            $tagCounts[$tagLower] = ($tagCounts[$tagLower] ?? 0) + 1;
                         }
                     }
                 }
