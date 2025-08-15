@@ -169,7 +169,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && !isset($_POST['url'])) {
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link href="/lib/theme.css" rel="stylesheet">
+      <link href="lib/theme.css" rel="stylesheet">
 </head>
 <body>
 <nav class="navbar navbar-expand-lg bg-light">
