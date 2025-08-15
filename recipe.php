@@ -214,15 +214,15 @@ $flash = flash_get();
                 <div>
                     <h1 class="h3 mb-1"><?= htmlspecialchars($recipe['title'] ?? '') ?></h1>
                     <div class="muted mb-2"><?= htmlspecialchars($recipe['description'] ?? '') ?></div>
-                    <?php if (!empty($recipe['tags'])): ?>
-                        <div class="mb-2">
-                                                    <?php foreach ($recipe['tags'] as $tag): ?>
-                            <span class="tag-badge me-1">
-                                <?= htmlspecialchars($tag) ?>
-                            </span>
-                        <?php endforeach; ?>
-                        </div>
-                    <?php endif; ?>
+                                         <?php if (!empty($recipe['tags'])): ?>
+                         <div class="mb-2">
+                             <?php foreach ($recipe['tags'] as $tag): ?>
+                                 <span class="tag-badge me-1" style="background: rgba(255, 107, 53, 0.12); color: #ff6b35; padding: 0.4em 0.8em; font-size: 0.75rem; border-radius: 999px; display: inline-block; border: none; text-decoration: none; font-weight: 500;">
+                                     <?= htmlspecialchars($tag) ?>
+                                 </span>
+                             <?php endforeach; ?>
+                         </div>
+                     <?php endif; ?>
                     <div class="d-flex align-items-center gap-2 mb-1">
                         <span class="rating-star"><i class="bi bi-star-fill"></i> <?= number_format((float)($recipe['rating'] ?? 0), 1) ?></span>
                         <span class="muted small">(<?= (int)($recipe['votes'] ?? 0) ?> votes)</span>
