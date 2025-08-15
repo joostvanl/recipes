@@ -1,0 +1,86 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Surinaamse Roti Kip",
+    "description": "Een smaakvolle en stevige Surinaamse kipcurry met malse kip, aardappelen en verwarmende kruiden, geserveerd met opgewarmde roti platen.",
+    "ingredients": [
+        {
+            "name": "Kipfiletreepjes zonder bot",
+            "quantity": "500",
+            "unit": "g"
+        },
+        {
+            "name": "Aardappelen, geschild en in blokjes",
+            "quantity": "2",
+            "unit": "grote"
+        },
+        {
+            "name": "Ui, fijngehakt",
+            "quantity": "1",
+            "unit": "grote"
+        },
+        {
+            "name": "Knoflook, fijngehakt",
+            "quantity": "3",
+            "unit": "teentjes"
+        },
+        {
+            "name": "Geraspte verse gember",
+            "quantity": "1",
+            "unit": "el"
+        },
+        {
+            "name": "Huisgemaakte masala mix",
+            "quantity": "2",
+            "unit": "el"
+        },
+        {
+            "name": "Tomaat, gehakt",
+            "quantity": "1",
+            "unit": "middelgrote"
+        },
+        {
+            "name": "Scotch bonnet peper (optioneel, voor extra pittigheid)",
+            "quantity": "1",
+            "unit": "stuk"
+        },
+        {
+            "name": "Kipbouillon of water",
+            "quantity": "200",
+            "unit": "ml"
+        },
+        {
+            "name": "Kokosmelk (optioneel, voor rijkheid)",
+            "quantity": "200",
+            "unit": "ml"
+        },
+        {
+            "name": "Olie",
+            "quantity": "2",
+            "unit": "el"
+        },
+        {
+            "name": "Zout",
+            "quantity": "naar smaak",
+            "unit": "geen"
+        },
+        {
+            "name": "Bevroren roti platen",
+            "quantity": "naar behoefte",
+            "unit": "platen"
+        }
+    ],
+    "steps": [
+        "Meng de kip met 1 eetlepel van de huisgemaakte masala mix, zout en een scheutje olie. Laat 30 minuten marineren.",
+        "Verhit olie in een grote pan en fruit de gesnipperde uien goudbruin.",
+        "Voeg de knoflook en gember toe en bak mee. Doe de gemarineerde kip erbij en bak rondom bruin.",
+        "Strooi de resterende masala mix erover en roer goed door.",
+        "Voeg de gehakte tomaat toe en laat zacht worden.",
+        "Giet de kipbouillon en kokosmelk (indien gebruikt) samen met de aardappelen erbij en laat 20-25 minuten sudderen tot de aardappelen gaar zijn.",
+        "Pas het zout aan en voeg voor een milde pittigheid de hele scotch bonnet toe (verwijder na 5 minuten).",
+        "Serveer warm met opgewarmde bevroren roti platen."
+    ],
+    "votes": 0,
+    "rating": 0,
+    "reviews": [],
+    "image": "https://www.zaligkoken.nl/wp-content/uploads/2019/10/GOED_SurinaamseRoti.jpg"
+}

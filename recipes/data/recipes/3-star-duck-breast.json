@@ -1,0 +1,74 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Pan-Seared Duck Breast with Cherry Gastrique and Truffle Potato Purée",
+    "description": "An exquisite dish of perfectly seared duck breast served with a sweet and tangy cherry gastrique, paired with creamy truffle-infused potato purée.",
+    "ingredients": [
+      {
+        "name": "Duck breast",
+        "quantity": "2",
+        "unit": "pieces"
+      },
+      {
+        "name": "Salt",
+        "quantity": "1",
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Black pepper",
+        "quantity": "1/2",
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Fresh cherries (pitted)",
+        "quantity": "200",
+        "unit": "grams"
+      },
+      {
+        "name": "Granulated sugar",
+        "quantity": "100",
+        "unit": "grams"
+      },
+      {
+        "name": "Red wine vinegar",
+        "quantity": "50",
+        "unit": "ml"
+      },
+      {
+        "name": "Butter",
+        "quantity": "50",
+        "unit": "grams"
+      },
+      {
+        "name": "Potatoes (peeled and chopped)",
+        "quantity": "500",
+        "unit": "grams"
+      },
+      {
+        "name": "Heavy cream",
+        "quantity": "100",
+        "unit": "ml"
+      },
+      {
+        "name": "Truffle oil",
+        "quantity": "1",
+        "unit": "tablespoon"
+      },
+      {
+        "name": "Fresh chives (for garnish)",
+        "quantity": "to taste",
+        "unit": "none"
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 180°C (350°F).",
+      "Score the skin of the duck breast in a criss-cross pattern and season both sides with salt and black pepper.",
+      "In a cold oven-proof skillet, place the duck breast skin-side down and turn the heat to medium. Sear for about 6-8 minutes until the skin is crispy, rendering the fat.",
+      "Once the skin is golden and crispy, flip the duck breasts and sear the other side for about 2 minutes. Then transfer the skillet to the preheated oven and cook for 8-10 minutes for medium-rare.",
+      "While the duck is cooking, prepare the cherry gastrique. In a saucepan, combine the granulated sugar and a splash of water over medium heat until the sugar dissolves and turns caramel in color.",
+      "Add the cherries and cook for 2-3 minutes until softened. Add the red wine vinegar and cook for another 5 minutes until the mixture thickens slightly. Strain if desired and keep warm.",
+      "To prepare the truffle potato purée, boil the chopped potatoes in salted water until tender (about 15 minutes). Drain and return to the pot.",
+      "Add the heavy cream and truffle oil, then blend until smooth and creamy. Season with salt to taste.",
+      "Once the duck is done, let it rest for 5 minutes before slicing it thinly on the bias.",
+      "To plate, add a dollop of truffle potato purée to the center of the plate, arrange sliced duck breast beautifully on top, and drizzle with the cherry gastrique. Garnish with fresh chives."
+    ]
+  }

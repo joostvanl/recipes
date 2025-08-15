@@ -1,0 +1,82 @@
+{
+    "$schema": "https:\/\/json-schema.org\/draft\/2020-12\/schema",
+    "title": "Moqueca de Frango (Brazilian Chicken Stew)",
+    "description": "A creamy, mildly spiced Brazilian chicken stew with coconut milk.",
+    "ingredients": [
+        {
+            "name": "Boneless chicken thighs or breast, cut into chunks",
+            "quantity": "700",
+            "unit": "g"
+        },
+        {
+            "name": "Large onion, sliced",
+            "quantity": "1",
+            "unit": "large"
+        },
+        {
+            "name": "Garlic, minced",
+            "quantity": "3",
+            "unit": "cloves"
+        },
+        {
+            "name": "Bell pepper (red or yellow), sliced",
+            "quantity": "1",
+            "unit": "piece"
+        },
+        {
+            "name": "Medium tomatoes, diced",
+            "quantity": "2",
+            "unit": "medium"
+        },
+        {
+            "name": "Coconut milk",
+            "quantity": "400",
+            "unit": "ml"
+        },
+        {
+            "name": "Chicken broth",
+            "quantity": "120",
+            "unit": "ml"
+        },
+        {
+            "name": "Olive oil",
+            "quantity": "2",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Lime juice",
+            "quantity": "1",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Paprika",
+            "quantity": "1",
+            "unit": "tsp"
+        },
+        {
+            "name": "Cayenne pepper (optional)",
+            "quantity": "0.5",
+            "unit": "tsp"
+        },
+        {
+            "name": "Salt & black pepper",
+            "quantity": "to taste",
+            "unit": "none"
+        },
+        {
+            "name": "Chopped cilantro",
+            "quantity": "0.25",
+            "unit": "bunch"
+        }
+    ],
+    "steps": [
+        "Marinate the chicken: Toss the chicken with lime juice, salt, black pepper, and paprika. Let it sit for 10 minutes.",
+        "Saut\u00e9 the aromatics: Heat olive oil in a large pan, add the sliced onion and minced garlic, and cook until fragrant.",
+        "Cook the chicken: Add the marinated chicken pieces and cook until lightly browned.",
+        "Add veggies & simmer: Stir in the sliced bell pepper, diced tomatoes, chicken broth, and cayenne pepper. Let it simmer for 10 minutes.",
+        "Make it creamy: Pour in the coconut milk, stir well, and simmer for another 5 minutes until the sauce thickens.",
+        "Finish & serve: Garnish with chopped cilantro and serve hot over white rice or with crusty bread."
+    ],
+    "votes": 1,
+    "rating": 2
+}

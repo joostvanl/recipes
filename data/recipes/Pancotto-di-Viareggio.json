@@ -1,0 +1,85 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Pancotto di Viareggio",
+    "description": "Pancotto di Viareggio is een smakelijk eenpansgerecht uit de Toscaanse maritieme traditie. Het is een eenvoudig maar heerlijke combinatie van oud brood, tomaat, knoflook, olijfolie, chilipeper en vers visfruit (inktvisjes, garnalen en venusschelpen). Perfect voor een diner met vrienden.",
+    "ingredients": [
+        {
+            "name": "Knoflookteentjes",
+            "quantity": "2",
+            "unit": "stuk"
+        },
+        {
+            "name": "Tomaten",
+            "quantity": "500",
+            "unit": "gram"
+        },
+        {
+            "name": "Kleine inktvisjes (totanetti)",
+            "quantity": "400",
+            "unit": "gram"
+        },
+        {
+            "name": "Garnalen",
+            "quantity": "400",
+            "unit": "gram"
+        },
+        {
+            "name": "Venusschelpen (arselle)",
+            "quantity": "200",
+            "unit": "gram"
+        },
+        {
+            "name": "Toscane brood zonder zout, in sneetjes",
+            "quantity": "8-10",
+            "unit": "sneetjes"
+        },
+        {
+            "name": "Rode chilipeper",
+            "quantity": "1",
+            "unit": "stuk"
+        },
+        {
+            "name": "Tomatenconcentraat",
+            "quantity": "1",
+            "unit": "eetlepel"
+        },
+        {
+            "name": "Droge witte wijn",
+            "quantity": "1",
+            "unit": "glas"
+        },
+        {
+            "name": "Visfumet (visbouillon van witte vis)",
+            "quantity": "naar behoefte",
+            "unit": "geen"
+        },
+        {
+            "name": "Verse peterselie, fijngehakt",
+            "quantity": "naar smaak",
+            "unit": "geen"
+        },
+        {
+            "name": "Extra vierge olijfolie",
+            "quantity": "naar smaak",
+            "unit": "geen"
+        },
+        {
+            "name": "Zout",
+            "quantity": "naar smaak",
+            "unit": "geen"
+        }
+    ],
+    "steps": [
+        "Bereid alle ingrediënten voor. Breek het brood in stukken en laat deze minstens een uur weken in een kom met water. Maak intussen de vis schoon: pel de garnalen en verwijder het donkere darmpje, maak de inktvisjes schoon en snijd ze in stukjes, laat de venusschelpen weken in koud gezouten water.",
+        "Maak de visfumet volgens de basisreceptuur, gebruik ook de garnalenschalen hiervoor. Giet de venusschelpen af, spoel ze af onder koud stromend water en laat ze in een afgedekte pan op hoog vuur openen.",
+        "Verhit een ruime hoeveelheid olijfolie in een grote pan. Fruit de knoflookteentjes en een stuk chilipeper goudbruin. Voeg het tomatenconcentraat toe, verdund met een beetje warm water, voeg het glas witte wijn toe en laat enkele minuten op hoog vuur koken.",
+        "Voeg de gepelde en ontpitte in stukken gesneden tomaten toe en meng goed. Voeg daarna de inktvisjes en de schoongemaakte venusschelpen toe.",
+        "Knijp het brood goed uit en voeg het toe aan het mengsel. Laat ongeveer 30 minuten koken, af en toe bevochtigen met de visfumet.",
+        "Voeg een minuut voor het einde de garnalen en een bosje fijngehakte verse peterselie toe.",
+        "Serveer de pancotto di Viareggio warm of lauw."
+    ],
+    "votes": 0,
+    "rating": 0,
+    "reviews": [],
+    "image": "https://www.cucchiaio.it/content/cucchiaio/it/ricette/2010/02/ricetta-pancotto-viareggio/_jcr_content/header-par/image_single_2064155077.img.jpg/1583145954817.jpg"
+}

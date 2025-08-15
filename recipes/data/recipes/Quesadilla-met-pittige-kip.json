@@ -1,0 +1,44 @@
+{
+    "$schema": "https:\/\/json-schema.org\/draft\/2020-12\/schema",
+    "title": "Quesadilla met pittige kip",
+    "description": "Zin in iets makkelijks en lekkers? Deze quesadilla met pittige kip en gesmolten kaas staat in 15 minuten op tafel!",
+    "ingredients": [
+        {
+            "name": "wraps",
+            "quantity": "4",
+            "unit": "stuk"
+        },
+        {
+            "name": "kipreepjes",
+            "quantity": "200",
+            "unit": "gram"
+        },
+        {
+            "name": "sriracha of chilisaus",
+            "quantity": "2",
+            "unit": "eetlepels"
+        },
+        {
+            "name": "geraspte kaas (bijv. belegen kaas of tex mex kaas)",
+            "quantity": "150",
+            "unit": "gram"
+        },
+        {
+            "name": "rucola",
+            "quantity": "2",
+            "unit": "handjes"
+        }
+    ],
+    "steps": [
+        "Verwarm de oven voor op 180 graden Celsius.",
+        "Meng de kip met de sriracha of chilisaus.",
+        "Leg één wrap op een snijplank of bord. Verdeel de helft van de geraspte kaas over de wrap.",
+        "Verdeel daarna het kipmengsel over de helft van de wrap en strooi de nog wat kaas erop.",
+        "Vouw de wrap dubbel en druk licht aan.",
+        "Giet een scheut olie in een pan.",
+        "Bak de wrap een paar minuten per kant, totdat de wrap goudbruin is.",
+        "Serveer eventueel met wat rucola bovenop of erbij."
+    ],
+    "votes": 0,
+    "rating": 0
+}

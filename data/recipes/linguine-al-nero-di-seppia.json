@@ -1,0 +1,63 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Linguine al nero di seppia",
+    "description": "Linguine met inktvisinkt zijn een klassiek en iconisch visgerecht. De smaak en kleur zijn intens, en met verse seppia en kwalitatieve linguine maak je een traditioneel en elegant gerecht.",
+    "ingredients": [
+        {
+            "name": "Linguine di Gragnano IGP",
+            "quantity": "320",
+            "unit": "gram"
+        },
+        {
+            "name": "Seppia met inktzak",
+            "quantity": "800",
+            "unit": "gram"
+        },
+        {
+            "name": "Tomatenpuree",
+            "quantity": "350",
+            "unit": "gram"
+        },
+        {
+            "name": "Knoflookteen",
+            "quantity": "1",
+            "unit": "stuk"
+        },
+        {
+            "name": "Witte wijn",
+            "quantity": "0.5",
+            "unit": "glas"
+        },
+        {
+            "name": "Extra vergine olijfolie",
+            "quantity": "naar behoefte",
+            "unit": ""
+        },
+        {
+            "name": "Peperoncino (chilipoeder of -vlokken)",
+            "quantity": "naar smaak",
+            "unit": ""
+        },
+        {
+            "name": "Verse peterselie",
+            "quantity": "naar smaak",
+            "unit": ""
+        },
+        {
+            "name": "Zout",
+            "quantity": "naar smaak",
+            "unit": ""
+        }
+    ],
+    "steps": [
+        "Maak de seppia schoon, zorg ervoor dat de inktzak intact blijft. Snijd de kop in reepjes en de tentakels in vieren. Bak de seppia in een pan met olijfolie, knoflook en peperoncino.",
+        "Blus af met witte wijn en laat de alcohol verdampen. Voeg dan de inkt uit de inktzak toe en de tomatenpuree.",
+        "Roer goed door en laat het geheel 40-50 minuten zachtjes koken totdat de seppia zacht is. Kook ondertussen de linguine in ruim gezouten water beetgaar.",
+        "Giet de linguine af en voeg ze toe aan de pan met de saus. Meng goed buiten het vuur.",
+        "Serveer de linguine al nero di seppia met een scheut extra vergine olijfolie en naar wens wat fijngehakte verse peterselie."
+    ],
+    "votes": 0,
+    "rating": 0,
+    "reviews": [],
+    "image": "https://www.cucchiaio.it/content/dam/cucchiaio/it/ricette/2009/12/ricetta-linguine-nero-seppie/cucchiaio-05-febbraio5878.jpg"
+}

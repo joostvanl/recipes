@@ -1,0 +1,109 @@
+{
+    "$schema": "https:\/\/json-schema.org\/draft\/2020-12\/schema",
+    "title": "Butter Chicken (Double Portion, Metric)",
+    "description": "A rich and creamy butter chicken recipe with marinated chicken and a spiced tomato-based sauce. This version is doubled and uses metric units.",
+    "ingredients": [
+        {
+            "name": "Boneless chicken breast, cut into 3\u20134 cm cubes",
+            "quantity": "900",
+            "unit": "g"
+        },
+        {
+            "name": "Tandoori masala",
+            "quantity": "4",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Ginger paste",
+            "quantity": "2",
+            "unit": "tsp"
+        },
+        {
+            "name": "Garlic paste",
+            "quantity": "2",
+            "unit": "tsp"
+        },
+        {
+            "name": "Plain yogurt",
+            "quantity": "240",
+            "unit": "ml"
+        },
+        {
+            "name": "Oil (for marinade and cooking)",
+            "quantity": "2",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Ghee (clarified butter)",
+            "quantity": "4",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Large onion, thinly sliced",
+            "quantity": "2",
+            "unit": "whole"
+        },
+        {
+            "name": "Ginger paste (for sauce)",
+            "quantity": "3",
+            "unit": "tsp"
+        },
+        {
+            "name": "Garlic paste (for sauce)",
+            "quantity": "3",
+            "unit": "tsp"
+        },
+        {
+            "name": "Crushed tomatoes (canned)",
+            "quantity": "820",
+            "unit": "g"
+        },
+        {
+            "name": "Chili powder",
+            "quantity": "2",
+            "unit": "tsp"
+        },
+        {
+            "name": "Coriander powder",
+            "quantity": "3",
+            "unit": "tsp"
+        },
+        {
+            "name": "Cumin powder",
+            "quantity": "3",
+            "unit": "tsp"
+        },
+        {
+            "name": "Heavy whipping cream",
+            "quantity": "240",
+            "unit": "ml"
+        },
+        {
+            "name": "Garam masala",
+            "quantity": "1",
+            "unit": "tsp"
+        },
+        {
+            "name": "Dried fenugreek leaves, crushed",
+            "quantity": "0.5",
+            "unit": "tsp"
+        },
+        {
+            "name": "Water (as needed for blending)",
+            "quantity": "up to 120",
+            "unit": "ml"
+        }
+    ],
+    "steps": [
+        "Prepare the marinade: In a medium bowl, combine tandoori masala, ginger paste, garlic paste, and yogurt. Whisk until smooth and season to taste. Add chicken pieces and marinate for at least 20 minutes, or ideally 12\u201324 hours in the refrigerator.",
+        "Saut\u00e9 the onions: In a Dutch oven or heavy-bottomed pot, heat ghee over medium heat. Add sliced onions and cook until translucent and soft (5\u20137 minutes), without browning.",
+        "Add spices and tomatoes: Stir in ginger and garlic paste. Cook for 30 seconds. Add crushed tomatoes, chili powder, coriander, and cumin. Simmer for 5 minutes. If bubbling rapidly, add a splash of water (up to 60 ml).",
+        "Blend the sauce: Remove from heat and carefully transfer to a blender. Blend until smooth, adding more water if needed to help it blend (up to 120 ml total). You may need to blend in batches.",
+        "Make-ahead tip (optional): Cool and refrigerate the sauce for up to 2 days or freeze for up to 3 months. Bring to room temperature before using.",
+        "Cook the chicken: In the same pot, heat 1 tbsp oil. Add marinated chicken (discard excess marinade) and cook for 5\u20136 minutes, stirring to brown all sides.",
+        "Finish the dish: Pour in the blended butter chicken sauce. When it starts to bubble, stir in the heavy cream and garam masala. Once it simmers again, add crushed fenugreek leaves.",
+        "Serve: Serve hot over basmati rice or with naan."
+    ],
+    "votes": 1,
+    "rating": 4
+}

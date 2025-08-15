@@ -1,0 +1,53 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Octopussalade met aardappelen",
+    "description": "Octopussalade met aardappelen is een klassiek gerecht uit onze keuken. Een smakelijk, voedzaam en tegelijkertijd licht gerecht dat kan worden genoten als voorgerecht of als tweede gang met zeevruchten. Het recept is gemakkelijk en het geheim van het perfecte resultaat ligt in de bereiding van de ingrediënten en de balans van smaken.",
+    "ingredients": [
+        {
+            "name": "Octopus",
+            "quantity": "1",
+            "unit": "kg"
+        },
+        {
+            "name": "Aardappelen",
+            "quantity": "1",
+            "unit": "kg"
+        },
+        {
+            "name": "Extra vierge olijfolie",
+            "quantity": "160",
+            "unit": "gram"
+        },
+        {
+            "name": "Citroen",
+            "quantity": "0.5",
+            "unit": "stuk"
+        },
+        {
+            "name": "Verse peterselie",
+            "quantity": "20",
+            "unit": "gram"
+        },
+        {
+            "name": "Zout",
+            "quantity": "naar smaak",
+            "unit": ""
+        },
+        {
+            "name": "Peper",
+            "quantity": "naar smaak",
+            "unit": ""
+        }
+    ],
+    "steps": [
+        "Begin met het schoonmaken van de octopus (als deze niet al schoongemaakt is). Verwijder de ogen, de inktzak en het skelet. Spoel de octopus goed af onder stromend water. Breng een pan met water aan de kook. Neem de octopus bij het hoofd en dompel de tentakels enkele seconden in het kokende water, haal ze er dan weer uit. Herhaal dit proces drie keer zodat de tentakels krullen. Leg de octopus op een bord.",
+        "Spoel de pan, vul hem met koud water, voeg een theelepel zout toe en breng aan de kook. Dompel de octopus onder met de tentakels naar boven en het lichaam naar beneden, zodat de hele octopus onder water is. Laat het koken, dek af met een deksel en kook 20 minuten (voor octopussen kleiner dan 1 kg, 10 minuten). Zet het vuur uit maar laat de octopus in het hete water verder garen terwijl de pan afgedekt blijft. Controleer af en toe de zachtheid met een vork. Het duurt ongeveer 50 minuten om een za",
+        "Schil ondertussen de aardappelen, spoel ze af en snijd ze in blokjes van ongeveer 2 cm. Kook ze 20 minuten in gezouten water tot ze gaar maar stevig zijn. Laat ze afkoelen op een bord, verspreid zodat ze niet aan elkaar kleven.",
+        "Snijd de afgekoelde octopus in stukjes die ongeveer even groot zijn als de aardappelblokjes. Maak dan de citronette: emulsioneer in een kom met een vork of kleine garde de olijfolie, gehakte peterselie, het sap van de citroen, zout en peper.",
+        "Meng in een ruime kom voorzichtig de octopus, aardappelen en de dressing zodat alles gelijkmatig bedekt is. Laat de salade minimaal 2 uur in de koelkast rusten. Het is zelfs nog beter om het een nachtje koud te bewaren. Serveer de octopussalade op kamertemperatuur."
+    ],
+    "votes": 0,
+    "rating": 0,
+    "reviews": [],
+    "image": "https://www.cucchiaio.it/content/cucchiaio/it/ricette/2009/12/ricetta-insalata-di-polpo-con-patate/jcr:content/header-par/image_single.img10.jpg/1593161805863.jpg"
+}

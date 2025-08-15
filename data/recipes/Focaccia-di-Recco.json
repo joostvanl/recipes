@@ -1,0 +1,47 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Focaccia di Recco",
+    "description": "De Focaccia di Recco is een geliefd gerecht ver buiten de grenzen van Ligurië. Een heerlijke focaccia met een dunne laag gevuld met verse crescenza kaas. Hier is een recept om het thuis te maken met de juiste tools voor een uitstekend resultaat.",
+    "ingredients": [
+        {
+            "name": "verse crescenza kaas (gemaakt van Ligurische melk)",
+            "quantity": "800",
+            "unit": "gram"
+        },
+        {
+            "name": "water",
+            "quantity": "200",
+            "unit": "milliliter"
+        },
+        {
+            "name": "tarwebloem (Type 00 Manitoba)",
+            "quantity": "400",
+            "unit": "gram"
+        },
+        {
+            "name": "extra vergine olijfolie",
+            "quantity": "120",
+            "unit": "milliliter"
+        },
+        {
+            "name": "zout",
+            "quantity": "naar smaak",
+            "unit": "none"
+        }
+    ],
+    "steps": [
+        "Meng de bloem met 80 ml extra vergine olijfolie en voeg het water toe tot je een zacht deeg krijgt. Laat het deeg 1 uur rusten op een tochtvrije plek, afgedekt met een katoenen doek.",
+        "Kneed het deeg opnieuw, vorm een bal en laat het dan nog 5 minuten rusten.",
+        "Rol het deeg uit tot een zeer dunne laag. Gebruik eerst een deegrol maar ga daarna verder met je handen, zodat je het deeg transparant wordt. Gebruik zo min mogelijk bloem om plakken te voorkomen.",
+        "Bereid een 'testo', een ronde koperen plaat die je goed invet om het deeg op te leggen voor het bakken.",
+        "Verdeel de crescenza in stukjes over de deeglaag en dek af met een tweede dunne laag deeg.",
+        "Pik de bovenste laag deeg lichtjes open om stoom te laten ontsnappen. Bestrijk het oppervlak gelijkmatig met de rest van de olijfolie en druk zachtjes met je handpalm op de crescenza zodat het zich goed verspreidt.",
+        "Strooi een snufje zout over de focaccia.",
+        "Bak de focaccia in een voorverwarmde oven op 300°C gedurende ongeveer 6 minuten tot de bovenkant goudbruin is en de textuur krokant en bros is.",
+        "Serveer direct."
+    ],
+    "votes": 0,
+    "rating": 0,
+    "reviews": [],
+    "image": "https://www.fattoincasadabenedetta.it/wp-content/uploads/2024/05/FOCACCIA-DI-RECCO-1-1.jpg"
+}

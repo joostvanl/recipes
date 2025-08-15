@@ -1,0 +1,110 @@
+{
+    "$schema": "https:\/\/json-schema.org\/draft\/2020-12\/schema",
+    "title": "Moroccan Chicken Bastilla",
+    "description": "A savory Moroccan dish featuring spiced chicken, toasted almonds, raisins, and a delicate phyllo dough, finished with a dusting of powdered sugar and cinnamon.",
+    "ingredients": [
+        {
+            "name": "Olive oil",
+            "quantity": "2",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Boneless chicken thighs, chopped",
+            "quantity": "1",
+            "unit": "lb"
+        },
+        {
+            "name": "Onion, finely chopped",
+            "quantity": "1",
+            "unit": "whole"
+        },
+        {
+            "name": "Garlic, minced",
+            "quantity": "2",
+            "unit": "cloves"
+        },
+        {
+            "name": "Ground cinnamon",
+            "quantity": "1",
+            "unit": "tsp"
+        },
+        {
+            "name": "Ground ginger",
+            "quantity": "1",
+            "unit": "tsp"
+        },
+        {
+            "name": "Turmeric",
+            "quantity": "0.5",
+            "unit": "tsp"
+        },
+        {
+            "name": "Saffron (optional)",
+            "quantity": "0.5",
+            "unit": "tsp"
+        },
+        {
+            "name": "Black pepper",
+            "quantity": "0.5",
+            "unit": "tsp"
+        },
+        {
+            "name": "Salt",
+            "quantity": "0.5",
+            "unit": "tsp"
+        },
+        {
+            "name": "Chicken broth",
+            "quantity": "1",
+            "unit": "cup"
+        },
+        {
+            "name": "Eggs, beaten",
+            "quantity": "3",
+            "unit": "whole"
+        },
+        {
+            "name": "Chopped toasted almonds",
+            "quantity": "0.5",
+            "unit": "cup"
+        },
+        {
+            "name": "Golden raisins (optional)",
+            "quantity": "0.25",
+            "unit": "cup"
+        },
+        {
+            "name": "Sugar",
+            "quantity": "2",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Phyllo dough sheets",
+            "quantity": "8",
+            "unit": "sheets"
+        },
+        {
+            "name": "Melted butter",
+            "quantity": "0.5",
+            "unit": "cup"
+        },
+        {
+            "name": "Powdered sugar & cinnamon for garnish",
+            "quantity": "to taste",
+            "unit": "none"
+        }
+    ],
+    "steps": [
+        "Heat olive oil in a pan and saut\u00e9 the chopped onions and garlic until soft.",
+        "Add the chicken, ground cinnamon, ginger, turmeric, saffron, black pepper, salt, and chicken broth. Simmer for 20 minutes.",
+        "Remove the chicken, shred it, and return it to the pan.",
+        "Slowly stir in the beaten eggs until the mixture thickens.",
+        "Mix in the toasted almonds, raisins, and sugar, then let the mixture cool.",
+        "Layer phyllo dough sheets in a greased baking dish, brushing each sheet with melted butter.",
+        "Fill with the chicken mixture, fold over, and add additional phyllo layers as needed.",
+        "Bake at 375\u00b0F (190\u00b0C) for 30-35 minutes until golden.",
+        "Garnish with powdered sugar and cinnamon before serving."
+    ],
+    "votes": 1,
+    "rating": 5
+}

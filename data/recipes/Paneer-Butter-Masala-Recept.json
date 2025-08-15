@@ -1,0 +1,145 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Paneer Butter Masala Recept",
+    "description": "Dit paneer butter masala is een droom voor curry liefhebbers! Zachte paneer gedoopt in een romige, zijdezachte, super smaakvolle en heerlijke curry. Dit makkelijke recept helpt je de beste butter paneer te maken die beter smaakt dan in een restaurant. Serveer met boter naan, roti of basmati rijst.",
+    "ingredients": [
+        {
+            "name": "olie",
+            "quantity": "1",
+            "unit": "eetlepel"
+        },
+        {
+            "name": "groene kardemom",
+            "quantity": "2",
+            "unit": "stuk"
+        },
+        {
+            "name": "uien, gehakt",
+            "quantity": "120",
+            "unit": "gram"
+        },
+        {
+            "name": "tomaten, fijngehakt",
+            "quantity": "350",
+            "unit": "gram"
+        },
+        {
+            "name": "zout",
+            "quantity": "0.75",
+            "unit": "theelepel"
+        },
+        {
+            "name": "suiker",
+            "quantity": "0.75",
+            "unit": "theelepel"
+        },
+        {
+            "name": "cashewnoten, heel",
+            "quantity": "15",
+            "unit": "stuk"
+        },
+        {
+            "name": "Kashmiri rode chilipoeder of paprikapoeder",
+            "quantity": "0.75-1",
+            "unit": "theelepel"
+        },
+        {
+            "name": "garam masala poeder",
+            "quantity": "0.75-1",
+            "unit": "theelepel"
+        },
+        {
+            "name": "korianderpoeder",
+            "quantity": "1",
+            "unit": "theelepel"
+        },
+        {
+            "name": "water om te mengen",
+            "quantity": "240",
+            "unit": "milliliter"
+        },
+        {
+            "name": "laurierblad (bay leaf)",
+            "quantity": "1",
+            "unit": "stuk"
+        },
+        {
+            "name": "kaneelstokje",
+            "quantity": "1.25",
+            "unit": "cm"
+        },
+        {
+            "name": "groene kardemom (optioneel)",
+            "quantity": "2",
+            "unit": "stuk"
+        },
+        {
+            "name": "kruidnagel (cloves)",
+            "quantity": "3",
+            "unit": "stuk"
+        },
+        {
+            "name": "boter",
+            "quantity": "20-30",
+            "unit": "gram"
+        },
+        {
+            "name": "gember knoflook pasta",
+            "quantity": "7.5",
+            "unit": "ml"
+        },
+        {
+            "name": "water om saus te koken",
+            "quantity": "120",
+            "unit": "milliliter"
+        },
+        {
+            "name": "paneer (Indiase verse kaas)",
+            "quantity": "275",
+            "unit": "gram"
+        },
+        {
+            "name": "kasuri methi (gedroogde fenegriek bladeren)",
+            "quantity": "1",
+            "unit": "theelepel"
+        },
+        {
+            "name": "room (slagroom of kookroom)",
+            "quantity": "45",
+            "unit": "milliliter"
+        },
+        {
+            "name": "korianderblad, fijngehakt",
+            "quantity": "30",
+            "unit": "gram"
+        }
+    ],
+    "steps": [
+        "Verhit olie in pan. Voeg groene kardemom en uien toe. Bak tot ze doorschijnend of licht roze zijn. (Als er geen gember knoflook pasta is, voeg dan gehakte gember en knoflook toe met de uien).",
+        "Voeg tomaten en zout toe. Bak 3 minuten, dek af en kook tot uien en tomaten zacht en papperig zijn.",
+        "Voeg garam masala, korianderpoeder, cashewnoten, rode chilipoeder en suiker (optioneel) toe.",
+        "Bak het geheel op laag vuur tot het aroma vrijkomt, ongeveer 2-3 minuten.",
+        "Zet het vuur uit en laat het mengsel volledig afkoelen.",
+        "Doe het mengsel in een blender, voeg het water toe en maal tot een zijdezachte puree. Indien nodig zeven.",
+        "Verhit in dezelfde pan boter. Voeg optioneel kaneelstokje, kruidnagel, kardemom en laurierblad toe.",
+        "Zet het vuur laag, bak gember knoflook pasta 1 minuut tot geur vrijkomt.",
+        "Roer de gefilterde ui-tomatenpuree erdoor. Voeg optioneel extra rode chilipoeder toe voor kleur.",
+        "Voeg water toe en roer goed. Breng aan de kook en laat op middelhoog vuur koken tot de saus dik wordt, ca. 10 minuten. Regelmatig roeren.",
+        "Als de saus dik is en vetsporen toont, proef en voeg indien nodig zout of garam masala toe. Verwijder optioneel de hele specerijen.",
+        "Zet het vuur laag, voeg paneer toe. Verkruimel kasuri methi tussen handen en strooi over de saus.",
+        "Meng en kook 2 minuten op laag vuur afgedekt. Zet uit en roer de room erdoor.",
+        "Serveer gemengd in een schaal. Garneer met extra room en fijngehakte koriander. Serveer met boter naan, basmati rijst of jeera rijst."
+    ],
+    "votes": 1,
+    "rating": 4,
+    "reviews": [
+        {
+            "name": "Anonymous",
+            "rating": 4,
+            "comment": "",
+            "photo": null,
+            "date": "2025-08-14T09:12:01+00:00"
+        }
+    ],
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/07/paneer-butter-masala-recipe.jpg"
+}

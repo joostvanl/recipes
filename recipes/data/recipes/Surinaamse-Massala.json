@@ -1,0 +1,63 @@
+{
+    "$schema": "https:\/\/json-schema.org\/draft\/2020-12\/schema",
+    "title": "Homemade Masala Mix",
+    "description": "A blend of aromatic spices used to enhance the flavor of Surinamese Chicken Curry.",
+    "ingredients": [
+        {
+            "name": "Ground coriander",
+            "quantity": "2",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Ground cumin",
+            "quantity": "1",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Ground turmeric",
+            "quantity": "1",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Ground fenugreek (optional)",
+            "quantity": "1",
+            "unit": "tsp"
+        },
+        {
+            "name": "Ground ginger",
+            "quantity": "1",
+            "unit": "tsp"
+        },
+        {
+            "name": "Paprika",
+            "quantity": "1",
+            "unit": "tsp"
+        },
+        {
+            "name": "Ground cardamom",
+            "quantity": "0.5",
+            "unit": "tsp"
+        },
+        {
+            "name": "Ground black pepper",
+            "quantity": "0.5",
+            "unit": "tsp"
+        },
+        {
+            "name": "Ground cinnamon",
+            "quantity": "0.5",
+            "unit": "tsp"
+        },
+        {
+            "name": "Ground cloves",
+            "quantity": "0.25",
+            "unit": "tsp"
+        }
+    ],
+    "steps": [
+        "Mix all ingredients together in a bowl.",
+        "Store in an airtight container."
+    ],
+    "votes": 1,
+    "rating": 4
+}

@@ -1,0 +1,65 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Surinaamse Massala Mix",
+    "description": "Een zelfgemaakte massala mix, een mengsel van aromatische specerijen gebruikt om de smaak van Surinaamse kipcurry te verbeteren.",
+    "ingredients": [
+        {
+            "name": "Gemalen koriander",
+            "quantity": "2",
+            "unit": "eetlepels"
+        },
+        {
+            "name": "Gemalen komijn",
+            "quantity": "1",
+            "unit": "eetlepel"
+        },
+        {
+            "name": "Gemalen kurkuma",
+            "quantity": "1",
+            "unit": "eetlepel"
+        },
+        {
+            "name": "Gemalen fenegriek (optioneel)",
+            "quantity": "1",
+            "unit": "theelepel"
+        },
+        {
+            "name": "Gemalen gember",
+            "quantity": "1",
+            "unit": "theelepel"
+        },
+        {
+            "name": "Paprika",
+            "quantity": "1",
+            "unit": "theelepel"
+        },
+        {
+            "name": "Gemalen kardemom",
+            "quantity": "0.5",
+            "unit": "theelepel"
+        },
+        {
+            "name": "Gemalen zwarte peper",
+            "quantity": "0.5",
+            "unit": "theelepel"
+        },
+        {
+            "name": "Gemalen kaneel",
+            "quantity": "0.5",
+            "unit": "theelepel"
+        },
+        {
+            "name": "Gemalen kruidnagel",
+            "quantity": "0.25",
+            "unit": "theelepel"
+        }
+    ],
+    "steps": [
+        "Meng alle ingrediënten samen in een kom.",
+        "Bewaar in een luchtdichte container."
+    ],
+    "votes": 0,
+    "rating": 0,
+    "reviews": [],
+    "image": "https://www.sailawskitchen.com/cdn/shop/files/SailawsKitchen_GaramMasala1.webp?v=1721827711"
+}

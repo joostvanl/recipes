@@ -1,0 +1,125 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Beef en Broccoli Roerbakgerecht",
+    "description": "Een snel en smaakvol roerbakgerecht met malse runderreepjes en knapperige broccoli in een hartige, goed uitgebalanceerde saus.",
+    "ingredients": [
+        {
+            "name": "Runderreepjes (sirloin, flank of ribeye)",
+            "quantity": "300",
+            "unit": "gram"
+        },
+        {
+            "name": "Broccoliroosjes",
+            "quantity": "2",
+            "unit": "koppen"
+        },
+        {
+            "name": "Knoflook, fijngehakt",
+            "quantity": "3",
+            "unit": "teentjes"
+        },
+        {
+            "name": "Gember, fijngehakt",
+            "quantity": "2.5",
+            "unit": "cm"
+        },
+        {
+            "name": "Olie (plantaardig of pinda)",
+            "quantity": "1",
+            "unit": "eetlepel"
+        },
+        {
+            "name": "Sesamzaad (optioneel, voor garnering)",
+            "quantity": "1",
+            "unit": "theelepel"
+        },
+        {
+            "name": "Gesneden groene uien (optioneel, voor garnering)",
+            "quantity": "naar behoefte",
+            "unit": "none"
+        },
+        {
+            "name": "Sojasaus (voor marinade)",
+            "quantity": "2",
+            "unit": "eetlepels"
+        },
+        {
+            "name": "Oestersaus (voor marinade)",
+            "quantity": "1",
+            "unit": "eetlepel"
+        },
+        {
+            "name": "Maizena (voor marinade)",
+            "quantity": "1",
+            "unit": "eetlepel"
+        },
+        {
+            "name": "Shaoxing wijn of droge sherry (optioneel, voor marinade)",
+            "quantity": "1",
+            "unit": "eetlepel"
+        },
+        {
+            "name": "Sesamolie (voor marinade)",
+            "quantity": "1",
+            "unit": "theelepel"
+        },
+        {
+            "name": "Zuiveringszout (voor malsheid, marinade)",
+            "quantity": "0.5",
+            "unit": "theelepel"
+        },
+        {
+            "name": "Sojasaus (voor saus)",
+            "quantity": "3",
+            "unit": "eetlepels"
+        },
+        {
+            "name": "Oestersaus (voor saus)",
+            "quantity": "2",
+            "unit": "eetlepels"
+        },
+        {
+            "name": "Honing",
+            "quantity": "2",
+            "unit": "eetlepels"
+        },
+        {
+            "name": "Bruine suiker",
+            "quantity": "1",
+            "unit": "eetlepel"
+        },
+        {
+            "name": "Runderbouillon of water",
+            "quantity": "120",
+            "unit": "ml"
+        },
+        {
+            "name": "Maizena (voor saus, gemengd met water)",
+            "quantity": "1",
+            "unit": "eetlepel"
+        },
+        {
+            "name": "Rijstazijn",
+            "quantity": "1",
+            "unit": "theelepel"
+        },
+        {
+            "name": "Sesamolie (voor saus)",
+            "quantity": "0.5",
+            "unit": "theelepel"
+        }
+    ],
+    "steps": [
+        "Marineer het rundvlees: Meng de runderreepjes met de marinade-ingrediënten (sojasaus, oestersaus, maizena, Shaoxing wijn, sesamolie en zuiveringszout) en laat minimaal 30 minuten intrekken.",
+        "Bereid de saus: Klop de saus ingrediënten (sojasaus, oestersaus, honing, bruine suiker, runderbouillon of water, maizena mengsel, rijstazijn en sesamolie) in een kom door elkaar en zet apart.",
+        "Blancheer de broccoli: Breng water aan de kook en blancheer de broccoliroosjes 30 seconden, dompel daarna in ijswater, laat uitlekken en zet apart.",
+        "Bak het rundvlees: Verhit olie in een pan op hoog vuur en bak het rundvlees 1-2 minuten per kant tot het bruin is; haal uit de pan en zet apart.",
+        "Fruit de aromaten: Voeg in dezelfde pan de fijngehakte knoflook en gember toe en bak 30 seconden tot het geurige aroma vrijkomt.",
+        "Combineer en kook: Voeg de geblancheerde broccoli en rundvlees terug in de pan, giet de saus erbij en roer goed door. Laat 1-2 minuten sudderen tot de saus indikt.",
+        "Garneer en serveer: Garneer met sesamzaadjes en gesneden groene uien, en serveer heet met gestoomde rijst of noedels."
+    ],
+    "votes": 0,
+    "rating": 0,
+    "reviews": [],
+    "image": "https://www.dinneratthezoo.com/wp-content/uploads/2017/10/beef-and-broccoli-stir-fry-14.jpg"
+}

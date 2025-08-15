@@ -1,0 +1,111 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Butter Chicken",
+    "description": "Een rijk en romig butter chicken recept met gemarineerde kip en een gekruide tomatenbasis saus. Deze versie is verdubbeld en gebruikt metrische eenheden.",
+    "ingredients": [
+        {
+            "name": "Kipfilet zonder bot, in blokjes van 3–4 cm",
+            "quantity": "900",
+            "unit": "g"
+        },
+        {
+            "name": "Tandoori masala",
+            "quantity": "4",
+            "unit": "el"
+        },
+        {
+            "name": "Gemberpasta",
+            "quantity": "2",
+            "unit": "tl"
+        },
+        {
+            "name": "Knoflookpasta",
+            "quantity": "2",
+            "unit": "tl"
+        },
+        {
+            "name": "Natuurlijke yoghurt",
+            "quantity": "240",
+            "unit": "ml"
+        },
+        {
+            "name": "Olie (voor marinade en bakken)",
+            "quantity": "2",
+            "unit": "el"
+        },
+        {
+            "name": "Ghee (geklaarde boter)",
+            "quantity": "4",
+            "unit": "el"
+        },
+        {
+            "name": "Grote ui, dun gesneden",
+            "quantity": "2",
+            "unit": "stuk"
+        },
+        {
+            "name": "Gemberpasta (voor saus)",
+            "quantity": "3",
+            "unit": "tl"
+        },
+        {
+            "name": "Knoflookpasta (voor saus)",
+            "quantity": "3",
+            "unit": "tl"
+        },
+        {
+            "name": "Fijngehakte tomaten (uit blik)",
+            "quantity": "820",
+            "unit": "g"
+        },
+        {
+            "name": "Chilipoeder",
+            "quantity": "2",
+            "unit": "tl"
+        },
+        {
+            "name": "Korianderpoeder",
+            "quantity": "3",
+            "unit": "tl"
+        },
+        {
+            "name": "Komijnpoeder",
+            "quantity": "3",
+            "unit": "tl"
+        },
+        {
+            "name": "Zware room",
+            "quantity": "240",
+            "unit": "ml"
+        },
+        {
+            "name": "Garam masala",
+            "quantity": "1",
+            "unit": "tl"
+        },
+        {
+            "name": "Gedroogde fenegriekblaadjes, verkruimeld",
+            "quantity": "0.5",
+            "unit": "tl"
+        },
+        {
+            "name": "Water (indien nodig voor mengen)",
+            "quantity": "tot 120",
+            "unit": "ml"
+        }
+    ],
+    "steps": [
+        "Bereid de marinade: Meng in een middelgrote kom tandoori masala, gemberpasta, knoflookpasta en yoghurt tot een glad mengsel. Breng op smaak. Voeg de kip toe en marineer minstens 20 minuten, bij voorkeur 12–24 uur in de koelkast.",
+        "Fruit de uien: Verhit ghee in een zware pan op middelhoog vuur. Voeg de gesneden uien toe en bak tot ze glazig en zacht zijn (5–7 minuten), zonder ze te laten bruinen.",
+        "Voeg specerijen en tomaten toe: Roer de gember- en knoflookpasta erdoor. Bak 30 seconden mee. Voeg de fijngehakte tomaten, chilipoeder, koriander- en komijnpoeder toe. Laat 5 minuten sudderen. Voeg eventueel een scheutje water (tot 60 ml) toe als het te snel borrelt.",
+        "Pureer de saus: Haal van het vuur en doe de saus voorzichtig in een blender. Pureer tot een gladde saus, voeg indien nodig meer water toe (tot 120 ml totaal) om het mengen te vergemakkelijken. Mogelijk in porties blenden.",
+        "Tip om voor te bereiden (optioneel): Laat de saus afkoelen en bewaar tot 2 dagen in de koelkast of vries tot 3 maanden in. Breng op kamertemperatuur voor gebruik.",
+        "Kook de kip: Verhit 1 el olie in dezelfde pan. Voeg de gemarineerde kip toe (gooi overtollige marinade weg) en bak 5-6 minuten totdat alle kanten gebruind zijn.",
+        "Maak het gerecht af: Giet de gepureerde butter chicken saus erbij. Wanneer het kookt, roer de room en garam masala erdoor. Zodra het weer suddert, voeg de verkruimelde fenegriekblaadjes toe.",
+        "Serveer: Serveer heet met basmatirijst of naan."
+    ],
+    "votes": 0,
+    "rating": 0,
+    "reviews": [],
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+}

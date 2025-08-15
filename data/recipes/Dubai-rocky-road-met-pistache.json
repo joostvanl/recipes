@@ -1,0 +1,67 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Dubai rocky road met pistache",
+    "description": "Deze rocky road dubai is een leuke twist op de klassieke variant. Door de pistachepasta, kadayif en noten krijgt hij een Midden-Oosterse touch. Super leuk om te maken en het ziet er ook nog eens spectaculair uit. Je kunt het goed voorbereiden en makkelijk in stukjes snijden. De combinatie van zachte chocolade, krokante kadayif en romige pistache is onweerstaanbaar.",
+    "ingredients": [
+        {
+            "name": "melkchocolade",
+            "quantity": "200",
+            "unit": "gr"
+        },
+        {
+            "name": "pure chocolade",
+            "quantity": "100",
+            "unit": "gr"
+        },
+        {
+            "name": "amandelen",
+            "quantity": "40",
+            "unit": "gr"
+        },
+        {
+            "name": "pistachenoten",
+            "quantity": "40",
+            "unit": "gr"
+        },
+        {
+            "name": "pistachepasta",
+            "quantity": "1",
+            "unit": "pot"
+        },
+        {
+            "name": "biscuit koekjes",
+            "quantity": "75",
+            "unit": "gr"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "75",
+            "unit": "gr"
+        },
+        {
+            "name": "kadayif",
+            "quantity": "125",
+            "unit": "gr"
+        },
+        {
+            "name": "boter",
+            "quantity": "50",
+            "unit": "gr"
+        }
+    ],
+    "steps": [
+        "Smelt de melkchocolade samen met de pure chocolade au bain-marie of in de magnetron in korte intervallen. Voeg de boter toe en roer tot een gladde massa.",
+        "Je kunt kadayif al kant en klaar gebakken kopen of zelf kort roosteren in een droge koekenpan tot hij goudbruin en krokant is. Laat afkoelen. Roer vervolgens door de pistachepasta.",
+        "Breek de biscuitkoekjes grof. Hak de pistachenoten en amandelen grof. Knip of snijd de marshmallow in kleine stukjes.",
+        "Voeg de koekjes, noten en marshmallows toe aan het chocolademengsel. Roer alles goed door zodat alles bedekt is met chocolade.",
+        "Bekleed een kleine ovenschaal of bakvorm met bakpapier. Schep het mengsel erin en druk goed aan met de achterkant van een lepel. Strijk de bovenkant glad. Verdeel hier de pistachepasta met kadayif overheen.",
+        "Verdeel eventueel nog wat extra gesmolten chocolade bovenop en maak af met wat achtergehouden noten ter decoratie.",
+        "Laat minimaal 1 uur opstijven in de koelkast. Snijd daarna in 16 stukjes.",
+        "Je kunt rocky road dubai tot 5 dagen bewaren in een afgesloten bakje in de koelkast.",
+        "Sandra’s tip: Je kunt ook witte chocolade gebruiken in plaats van puur voor een mildere chocolade smaak. Ook lekker bij een kopje Arabische muntthee of high tea met een stukje baklava met pistache."
+    ],
+    "votes": 0,
+    "rating": 0,
+    "reviews": [],
+    "image": "https://www.leukerecepten.nl/app/uploads/2025/07/rocky-road-dubai.jpg"
+}

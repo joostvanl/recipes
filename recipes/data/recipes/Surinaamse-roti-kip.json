@@ -1,0 +1,84 @@
+{
+    "$schema": "https:\/\/json-schema.org\/draft\/2020-12\/schema",
+    "title": "Surinamese Chicken Curry with Roti",
+    "description": "A flavorful and hearty Surinamese chicken curry featuring tender chicken, potatoes, and warming spices, served with heated roti plates.",
+    "ingredients": [
+        {
+            "name": "Boneless chicken thighs",
+            "quantity": "500",
+            "unit": "g"
+        },
+        {
+            "name": "Potatoes (peeled and cubed)",
+            "quantity": "2",
+            "unit": "large"
+        },
+        {
+            "name": "Onion (finely chopped)",
+            "quantity": "1",
+            "unit": "large"
+        },
+        {
+            "name": "Garlic (minced)",
+            "quantity": "3",
+            "unit": "cloves"
+        },
+        {
+            "name": "Grated fresh ginger",
+            "quantity": "1",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Homemade masala mix",
+            "quantity": "2",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Tomato (chopped)",
+            "quantity": "1",
+            "unit": "medium"
+        },
+        {
+            "name": "Scotch bonnet (optional, for extra heat)",
+            "quantity": "1",
+            "unit": "whole"
+        },
+        {
+            "name": "Chicken broth or water",
+            "quantity": "200",
+            "unit": "ml"
+        },
+        {
+            "name": "Coconut milk (optional, for richness)",
+            "quantity": "200",
+            "unit": "ml"
+        },
+        {
+            "name": "Oil",
+            "quantity": "2",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Salt",
+            "quantity": "to taste",
+            "unit": "none"
+        },
+        {
+            "name": "Frozen roti plates",
+            "quantity": "as needed",
+            "unit": "plates"
+        }
+    ],
+    "steps": [
+        "Mix the chicken with 1 tbsp of the homemade masala mix, salt, and a drizzle of oil. Let marinate for 30 minutes.",
+        "Heat oil in a large pan and saut\u00e9 the chopped onions until golden.",
+        "Add the garlic and ginger, then incorporate the marinated chicken and brown it on all sides.",
+        "Sprinkle in the remaining masala mix and stir well.",
+        "Add the chopped tomato and cook until softened.",
+        "Pour in the chicken broth and coconut milk (if using) along with the potatoes, then simmer for 20-25 minutes until the potatoes are tender.",
+        "Adjust the salt and add a whole scotch bonnet for a mild heat (remove after 5 minutes).",
+        "Serve hot with heated frozen roti plates."
+    ],
+    "votes": 1,
+    "rating": 4
+}

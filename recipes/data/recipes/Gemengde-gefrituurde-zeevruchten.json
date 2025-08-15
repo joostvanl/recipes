@@ -1,0 +1,66 @@
+{
+    "$schema": "https:\/\/json-schema.org\/draft\/2020-12\/schema",
+    "title": "Gemengde gefrituurde zeevruchten",
+    "description": "Een gemengd gefrituurd zeevruchtengerecht bereid met garnalen, inktvisringen en diverse kleine vissen, geliefd bij jong en oud.",
+    "ingredients": [
+        {
+            "name": "Rode garnalen",
+            "quantity": "12",
+            "unit": "stuks"
+        },
+        {
+            "name": "Ansjovis",
+            "quantity": "12",
+            "unit": "stuks"
+        },
+        {
+            "name": "Zeebarbeel",
+            "quantity": "4",
+            "unit": "stuks"
+        },
+        {
+            "name": "Heek (kleine visjes)",
+            "quantity": "4",
+            "unit": "stuks"
+        },
+        {
+            "name": "Rode uien (Cepole)",
+            "quantity": "250",
+            "unit": "gram"
+        },
+        {
+            "name": "Inktvis",
+            "quantity": "350",
+            "unit": "gram"
+        },
+        {
+            "name": "Semola (griesmeel)",
+            "quantity": "250",
+            "unit": "gram"
+        },
+        {
+            "name": "Fijn zout",
+            "quantity": "naar smaak",
+            "unit": "none"
+        },
+        {
+            "name": "Zonnebloemolie",
+            "quantity": "naar behoefte",
+            "unit": "none"
+        }
+    ],
+    "steps": [
+        "Maak de vissen schoon: spoel de zeebarbeel af onder stromend water en verwijder met een schaar of met de handen het buikgedeelte met ingewanden. Spoel ze opnieuw en zet ze apart. Herhaal dit voor de heek en de ansjovis; de rode uien alleen spoelen.",
+        "Bereid de inktvis: scheid het lichaam van de kop, verwijder het kraakbeen, spoel het lichaam onder water en snijd de huid eraf met een mesje. Snijd het lichaam in ringen. Verwijder met een mesje de ogen van de tentakels en duw het bekje eruit. Indien de tentakels te groot zijn, snijd ze doormidden.",
+        "Spoel de garnalen onder water. Als alle vis schoon is, verwarm dan de olie in een pan tot 180-190 graden Celsius (gebruik een keukenthermometer). Giet de semola in een ondiepe kom.",
+        "Bestuif de heek volledig met semola en schud het overtollige af. Frituur de vis één voor één in de hete olie tot goudbruin. Doe hetzelfde met de zeebarbeel.",
+        "Haal de vissen uit de olie als ze goudbruin zijn en laat ze uitlekken op keukenpapier.",
+        "Bestuif de inktvis met semola, schud het overtollige semola af met een zeef en frituur het in de hete olie tot goudbruin. Leg de inktvis naast de andere vissen.",
+        "Bestuif de ansjovis met semola, schud het overtollige semola af en frituur ze in de olie.",
+        "Doe hetzelfde met de rode uien en frituur ze samen met de ansjovis. Haal ze uit de olie en laat uitlekken op keukenpapier.",
+        "Bestuif de garnalen met semola, frituur ze in hete olie, wacht ongeveer 1 minuut, haal ze uit de olie en leg ze op het uitgelekte vismengsel.",
+        "Garneer met partjes citroen en serveer de gemengde gefrituurde zeevruchten warm."
+    ],
+    "votes": 0,
+    "rating": 0
+}

@@ -1,0 +1,80 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Filodeeg plaattaart met tomaten",
+    "description": "Makkelijke filodeeg plaattaart met tomaten en ricotta. Deze tomatentaart is perfect als lunch, borrelhap of picknickgerecht voor zomerdagen.",
+    "ingredients": [
+        {
+            "name": "Filodeeg vellen",
+            "quantity": "4",
+            "unit": "grote vellen"
+        },
+        {
+            "name": "Tomaten (allerlei soorten)",
+            "quantity": "500",
+            "unit": "gram"
+        },
+        {
+            "name": "Cherrytomaten",
+            "quantity": "100",
+            "unit": "gram"
+        },
+        {
+            "name": "Rasp van biologische citroen",
+            "quantity": "0.5",
+            "unit": "stuk"
+        },
+        {
+            "name": "Ricotta",
+            "quantity": "350",
+            "unit": "gram"
+        },
+        {
+            "name": "Parmezaanse kaas",
+            "quantity": "30",
+            "unit": "gram"
+        },
+        {
+            "name": "Pijnboompitten",
+            "quantity": "30",
+            "unit": "gram"
+        },
+        {
+            "name": "Verse basilicum",
+            "quantity": "10",
+            "unit": "gram"
+        },
+        {
+            "name": "Verse peterselie",
+            "quantity": "10",
+            "unit": "gram"
+        },
+        {
+            "name": "Chilivlokken",
+            "quantity": "naar smaak",
+            "unit": "none"
+        },
+        {
+            "name": "Zeezout",
+            "quantity": "naar smaak",
+            "unit": "none"
+        },
+        {
+            "name": "Olijfolie",
+            "quantity": "naar behoefte",
+            "unit": "none"
+        }
+    ],
+    "steps": [
+        "Verwarm de oven voor op 200 graden Celsius (boven- en onderwarmte).",
+        "Leg een vel bakpapier op een bakplaat. Leg hier een groot vel filodeeg op (net iets kleiner dan het bakpapier). Bestrijk deze met olijfolie en plak er een tweede vel filodeeg op. Herhaal deze stappen totdat je 4 laagjes filodeeg hebt. Tip: dek de resterende filodeegvellen tijdens het werken af met een licht vochtige theedoek zodat ze niet uitdrogen en scheuren.",
+        "Hak de groene kruiden fijn. Rasp de Parmezaanse kaas. Roer de ricotta los in een kommetje. Voeg de groene kruiden, Parmezaanse kaas, wat chilivlokken, zout en de rasp van een halve biologische citroen toe. Meng kort en verdeel dit mengsel over het filodeeg. Houd iets van het mengsel achter voor de garnering later.",
+        "Was de tomaten en snijd ze in plakjes. Halveer de cherrytomaten. Verdeel ze over de filodeegtaart. Breng de tomaten op smaak met een beetje peper en zout. Tip: om te voorkomen dat je taart zompig wordt, kun je de tomatenplakjes licht met zout bestrooien en 10 minuten op keukenpapier laten uitlekken, voordat je ze op de taart legt.",
+        "Bak de tomatentaart in 20 minuten goudbruin.",
+        "Rooster ondertussen de pijnboompitten in een droge koekenpan tot goudbruin (2-3 minuten).",
+        "Garneer de filodeeg plaattaart met de overgebleven ricotta-mix, wat verse basilicum en de geroosterde pijnboompitten."
+    ],
+    "votes": 0,
+    "rating": 0,
+    "reviews": [],
+    "image": "https://uitpaulineskeuken.nl/wp-content/uploads/2025/05/UPK-Filodeeg-plattaart-Butterfly-Studio-Food-Fotografie-Amsterdam-LR-UPK-UPK-LR-May-2.jpg"
+}

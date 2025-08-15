@@ -1,0 +1,59 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Welsh crempog recept",
+    "description": "Traditionele Welsh crempogau zijn dikke pannenkoeken, dikker dan een crêpe en groter dan een pikelet. Crempogau worden traditioneel gegeten op Vastenavond, maar zijn het hele jaar door heerlijk!",
+    "ingredients": [
+        {
+            "name": "boter",
+            "quantity": "55",
+            "unit": "gram"
+        },
+        {
+            "name": "lauw karnemelk",
+            "quantity": "450",
+            "unit": "milliliter"
+        },
+        {
+            "name": "tarwebloem (gewone meelsoort)",
+            "quantity": "275",
+            "unit": "gram"
+        },
+        {
+            "name": "suiker",
+            "quantity": "75",
+            "unit": "gram"
+        },
+        {
+            "name": "zuiveringszout (baking soda)",
+            "quantity": "1",
+            "unit": "theelepel"
+        },
+        {
+            "name": "zout",
+            "quantity": "0.5",
+            "unit": "theelepel"
+        },
+        {
+            "name": "azijn",
+            "quantity": "1",
+            "unit": "eetlepel"
+        },
+        {
+            "name": "vrije uitloop eieren",
+            "quantity": "2",
+            "unit": "stuk"
+        }
+    ],
+    "steps": [
+        "Roer de boter door de warme karnemelk totdat deze is gesmolten. Giet dit geleidelijk bij de bloem en klop goed door.",
+        "Laat het mengsel minstens 30 minuten staan (of liever enkele uren). Roer dan de suiker, zuiveringszout, zout, azijn en de losgeklopte eieren erdoor.",
+        "Roer goed door tot een glad beslag ontstaat.",
+        "Vet een bakplaat of hete steen goed in en verhit deze. Schep een eetlepel beslag per pannenkoek op de bakplaat en bak op middelhoog vuur gedurende enkele minuten tot ze goudbruin zijn aan beide kanten.",
+        "Houd de crempogau warm en ga door tot het gehele beslag op is.",
+        "Besmeer elke pannenkoek met boter en serveer warm. Optioneel zijn jam, banaan, stroop, krenten of een chocolade drizzle."
+    ],
+    "votes": 0,
+    "rating": 0,
+    "reviews": [],
+    "image": "https://www.visitwales.com/sites/visit/files/styles/o_herostandard_fullwidth_xl_min_2x/public/media-library/2022-10/FMDD2333.jpg.webp?itok=fPrXXisF"
+}

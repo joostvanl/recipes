@@ -1,0 +1,65 @@
+{
+    "$schema": "https:\/\/json-schema.org\/draft\/2020-12\/schema",
+    "title": "Moroccan Orange & Olive Salad",
+    "description": "A refreshing salad combining sweet orange slices with briny olives, red onion, and fresh herbs, dressed with a spiced olive oil and lemon dressing.",
+    "ingredients": [
+        {
+            "name": "Oranges, peeled and sliced",
+            "quantity": "3",
+            "unit": "whole"
+        },
+        {
+            "name": "Kalamata or green olives, sliced",
+            "quantity": "0.5",
+            "unit": "cup"
+        },
+        {
+            "name": "Red onion, thinly sliced",
+            "quantity": "0.25",
+            "unit": "small"
+        },
+        {
+            "name": "Fresh cilantro, chopped",
+            "quantity": "2",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Fresh mint, chopped",
+            "quantity": "2",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Olive oil",
+            "quantity": "2",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Lemon juice",
+            "quantity": "1",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Ground cumin",
+            "quantity": "0.5",
+            "unit": "tsp"
+        },
+        {
+            "name": "Paprika",
+            "quantity": "0.5",
+            "unit": "tsp"
+        },
+        {
+            "name": "Salt & pepper",
+            "quantity": "to taste",
+            "unit": "none"
+        }
+    ],
+    "steps": [
+        "Arrange the orange slices on a serving plate.",
+        "Scatter the sliced olives, red onion, cilantro, and mint evenly over the oranges.",
+        "Whisk together olive oil, lemon juice, ground cumin, paprika, salt, and pepper to create the dressing.",
+        "Drizzle the dressing over the salad and let it sit for 10 minutes before serving."
+    ],
+    "votes": 2,
+    "rating": 4.5
+}

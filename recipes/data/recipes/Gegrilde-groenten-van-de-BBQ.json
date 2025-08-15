@@ -1,0 +1,72 @@
+{
+    "$schema": "https:\/\/json-schema.org\/draft\/2020-12\/schema",
+    "title": "Gegrilde groenten van de BBQ",
+    "description": "Onmisbaar en lekker voedzaam naast al het andere lekkers van de BBQ",
+    "ingredients": [
+        {
+            "name": "aubergine",
+            "quantity": "1",
+            "unit": "stuk"
+        },
+        {
+            "name": "courgette",
+            "quantity": "1",
+            "unit": "stuk"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1",
+            "unit": "stuk"
+        },
+        {
+            "name": "knoflook",
+            "quantity": "1",
+            "unit": "teentje"
+        },
+        {
+            "name": "gedroogde oregano",
+            "quantity": "2",
+            "unit": "tl"
+        },
+        {
+            "name": "venkelzaad",
+            "quantity": "1",
+            "unit": "tl"
+        },
+        {
+            "name": "rode wijnazijn",
+            "quantity": "1",
+            "unit": "el"
+        },
+        {
+            "name": "extra vierge olijfolie",
+            "quantity": "4",
+            "unit": "el"
+        },
+        {
+            "name": "extra vierge olijfolie (extra om te bestrijken)",
+            "quantity": "naar behoefte",
+            "unit": "none"
+        },
+        {
+            "name": "peterselie",
+            "quantity": "15",
+            "unit": "gr"
+        },
+        {
+            "name": "peper en zout",
+            "quantity": "naar smaak",
+            "unit": "none"
+        }
+    ],
+    "steps": [
+        "Snijd de aubergine en courgette in schuine stukken. Bestrooi aan beide kanten met zout.",
+        "Snijd de paprika rondom de zaadjes in 4 stukken.",
+        "Rasp de knoflook. Meng de knoflook met gedroogde oregano, venkelzaad, rode wijnazijn en olijfolie in een kom. Breng op smaak met peper en zout. Snijd de peterselie fijn.",
+        "Steek de barbecue aan en zorg voor een heet en een minder heet gedeelte.",
+        "Bestrijk de groenten licht met extra olijfolie en leg ze op het hete gedeelte van de barbecue. Keer ze af en toe en verplaats naar het minder hete gedeelte als ze te snel donker worden.",
+        "Leg de gegrilde groenten op een schaal, schep de dressing erover, bestrooi met peterselie en breng indien nodig extra op smaak met peper en zout."
+    ],
+    "votes": 0,
+    "rating": 0
+}

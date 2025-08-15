@@ -1,0 +1,40 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Uploaded files (keep the directory structure but ignore actual uploads)
+uploads/recipes/*/
+!uploads/recipes/.htaccess
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Cache files
+cache/
+*.cache
+
+# Backup files
+*.bak
+*.backup

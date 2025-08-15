@@ -1,0 +1,67 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Marokkaanse sinaasappel- en olijvensalade",
+    "description": "Een verfrissende salade die zoete sinaasappelschijfjes combineert met gezouten olijven, rode ui en verse kruiden, op smaak gebracht met een gekruide olijfolie- en citroendressing.",
+    "ingredients": [
+        {
+            "name": "Sinaasappels",
+            "quantity": "3",
+            "unit": "stuks"
+        },
+        {
+            "name": "Kalamata of groene olijven",
+            "quantity": "0.5",
+            "unit": "cup"
+        },
+        {
+            "name": "Rode ui",
+            "quantity": "0.25",
+            "unit": "stuk"
+        },
+        {
+            "name": "Verse koriander",
+            "quantity": "2",
+            "unit": "eetlepels"
+        },
+        {
+            "name": "Verse munt",
+            "quantity": "2",
+            "unit": "eetlepels"
+        },
+        {
+            "name": "Olijfolie",
+            "quantity": "2",
+            "unit": "eetlepels"
+        },
+        {
+            "name": "Citroensap",
+            "quantity": "1",
+            "unit": "eetlepel"
+        },
+        {
+            "name": "Gemalen komijn",
+            "quantity": "0.5",
+            "unit": "theelepel"
+        },
+        {
+            "name": "Paprikapoeder",
+            "quantity": "0.5",
+            "unit": "theelepel"
+        },
+        {
+            "name": "Zout en peper",
+            "quantity": "naar smaak",
+            "unit": "none"
+        }
+    ],
+    "steps": [
+        "Leg de sinaasappelschijfjes op een serveerschaal.",
+        "Verdeel de gesneden olijven, rode ui, koriander en munt gelijkmatig over de sinaasappels.",
+        "Klop de olijfolie, het citroensap, gemalen komijn, paprikapoeder, zout en peper samen om de dressing te maken.",
+        "Sprenkel de dressing over de salade en laat het 10 minuten staan voor het serveren."
+    ],
+    "votes": 0,
+    "rating": 0,
+    "reviews": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjme0x7wWlHp1dNefhgUbPpqcF8VMpKmYkICACc_ix9xDIg40YqRCfGW20fUnKnDJ8WpDYYkUR5OldbQ7WOppNJwWONtUdfrTutk32w6QM1yaj-a4CXDb9t63S7ouMojU0zGHgRI6-OQ-YR/s1600/marokkaanse+sinaassalade.jpg"
+}

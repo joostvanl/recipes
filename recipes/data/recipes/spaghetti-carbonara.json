@@ -1,0 +1,40 @@
+{
+    "title": "Spaghetti Carbonara",
+    "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+        {
+            "name": "Spaghetti",
+            "quantity": "200",
+            "unit": "g"
+        },
+        {
+            "name": "Eggs",
+            "quantity": "3",
+            "unit": "pieces"
+        },
+        {
+            "name": "Pancetta",
+            "quantity": "100",
+            "unit": "g"
+        },
+        {
+            "name": "Pecorino Cheese",
+            "quantity": "50",
+            "unit": "g"
+        },
+        {
+            "name": "Black Pepper",
+            "quantity": "to taste",
+            "unit": ""
+        }
+    ],
+    "steps": [
+        "Boil spaghetti in salted water until al dente.",
+        "In a bowl, beat eggs and mix with grated Pecorino cheese.",
+        "Fry pancetta in a pan until crisp.",
+        "Mix spaghetti with pancetta and remove from heat.",
+        "Quickly mix in the egg and cheese mixture, and season with black pepper."
+    ],
+    "votes": 2,
+    "rating": 4
+}

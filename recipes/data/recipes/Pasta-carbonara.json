@@ -1,0 +1,54 @@
+{
+    "$schema": "https:\/\/json-schema.org\/draft\/2020-12\/schema",
+    "title": "Authentic Pasta Carbonara",
+    "description": "A classic Italian dish that combines spaghetti with a creamy sauce made from eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+        {
+            "name": "spaghetti",
+            "quantity": "400",
+            "unit": "grams"
+        },
+        {
+            "name": "pancetta",
+            "quantity": "150",
+            "unit": "grams"
+        },
+        {
+            "name": "egg yolks",
+            "quantity": "4",
+            "unit": "large"
+        },
+        {
+            "name": "Parmesan cheese",
+            "quantity": "100",
+            "unit": "grams"
+        },
+        {
+            "name": "black pepper",
+            "quantity": "1",
+            "unit": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "to taste",
+            "unit": ""
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "unit": "tablespoon"
+        }
+    ],
+    "steps": [
+        "Bring a large pot of salted water to a boil. Add spaghetti and cook until al dente, according to package instructions.",
+        "While the pasta is cooking, dice the pancetta into small pieces.",
+        "In a large skillet over medium heat, add the olive oil and pancetta. Cook until the pancetta is crispy and golden.",
+        "In a mixing bowl, whisk together the egg yolks, grated Parmesan cheese, and black pepper until well combined.",
+        "Once the pasta is cooked, reserve about 1 cup of pasta water and then drain the pasta.",
+        "Immediately add the hot pasta to the skillet with pancetta, tossing to combine.",
+        "Remove the skillet from heat, and quickly add the egg mixture to the pasta, stirring vigorously to create a creamy sauce. If needed, add reserved pasta water a little at a time to reach desired consistency.",
+        "Serve immediately with additional grated Parmesan cheese and freshly cracked black pepper on top."
+    ],
+    "votes": 4,
+    "rating": 4
+}

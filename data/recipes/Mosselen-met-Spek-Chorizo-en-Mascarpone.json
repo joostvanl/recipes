@@ -1,0 +1,97 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Mosselen met Spek, Chorizo en Mascarpone",
+    "description": "Rijke en romige mosselen met spek, chorizo en mascarpone, aangevuld met prei en venkel voor balans. Geserveerd met brood of friet.",
+    "ingredients": [
+        {
+            "name": "Verse mosselen",
+            "quantity": "2000",
+            "unit": "g"
+        },
+        {
+            "name": "Gerookt spek (in blokjes)",
+            "quantity": "100",
+            "unit": "g"
+        },
+        {
+            "name": "Chorizo (in blokjes)",
+            "quantity": "75",
+            "unit": "g"
+        },
+        {
+            "name": "Sjalotten, fijngesnipperd",
+            "quantity": "2",
+            "unit": "stuk"
+        },
+        {
+            "name": "Knoflook, fijngehakt",
+            "quantity": "2",
+            "unit": "teentje"
+        },
+        {
+            "name": "Prei, in halve ringen",
+            "quantity": "1",
+            "unit": "stuk"
+        },
+        {
+            "name": "Venkelknol, dun gesneden",
+            "quantity": "0.5",
+            "unit": "stuk"
+        },
+        {
+            "name": "Droge appelcider of witte wijn",
+            "quantity": "200",
+            "unit": "ml"
+        },
+        {
+            "name": "Laurierblad",
+            "quantity": "1",
+            "unit": "stuk"
+        },
+        {
+            "name": "Verse tijm of snufje gedroogde",
+            "quantity": "1",
+            "unit": "takje"
+        },
+        {
+            "name": "Mascarpone",
+            "quantity": "2",
+            "unit": "el"
+        },
+        {
+            "name": "Versgemalen zwarte peper",
+            "quantity": "naar smaak",
+            "unit": ""
+        },
+        {
+            "name": "Verse peterselie of bieslook (optioneel)",
+            "quantity": "naar smaak",
+            "unit": ""
+        }
+    ],
+    "steps": [
+        "Spoel de mosselen goed schoon onder koud stromend water. Verwijder kapotte exemplaren en trek eventuele baarden los. Zet apart.",
+        "Bak het spek in een grote pan zonder extra vet. Voeg na 2 minuten de chorizo toe en bak samen nog 3–4 minuten tot alles licht krokant is en het vet loskomt.",
+        "Voeg de sjalot en knoflook toe, fruit kort mee tot ze glazig zijn. Voeg daarna de prei en venkel toe en bak alles nog 3–4 minuten zachtjes tot de groenten beginnen te slinken.",
+        "Voeg de mosselen toe samen met de cider (of witte wijn), laurierblad en tijm. Deksel op de pan en 5–7 minuten laten stomen tot alle mosselen open zijn. Schud tussentijds om.",
+        "Zet het vuur laag en schep de mascarpone erdoor. Roer voorzichtig tot deze smelt en de saus mooi bindt. Breng op smaak met zwarte peper.",
+        "Bestrooi met fijngehakte peterselie of bieslook indien gewenst. Serveer direct met brood of frieten."
+    ],
+    "votes": 2,
+    "rating": 5,
+    "reviews": [
+        {
+            "name": "Joost",
+            "rating": 5,
+            "comment": "Zalig",
+            "date": "2025-08-12T17:08:41+00:00"
+        },
+        {
+            "name": "Anonymous",
+            "rating": 5,
+            "comment": "",
+            "photo": null,
+            "date": "2025-08-15T07:52:17+00:00"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "$schema": "https:\/\/json-schema.org\/draft\/2020-12\/schema",
+    "title": "BBQ Gehaktbrood met spek – Moink Meatloaf",
+    "description": "De geliefde moink balls, maar dan in het groot. Een mega lekker BBQ gehaktbrood met spek en barbecuesaus. Moink Meatloaf. Écht smullen!",
+    "ingredients": [
+        {
+            "name": "rundergehakt",
+            "quantity": "600",
+            "unit": "gram"
+        },
+        {
+            "name": "Parmezaanse kaas",
+            "quantity": "20",
+            "unit": "gram",
+            "notes": "geraspt"
+        },
+        {
+            "name": "ei",
+            "quantity": "1",
+            "unit": "whole"
+        },
+        {
+            "name": "paneermeel",
+            "quantity": "30",
+            "unit": "gram"
+        },
+        {
+            "name": "melk",
+            "quantity": "60",
+            "unit": "ml"
+        },
+        {
+            "name": "knoflook",
+            "quantity": "4",
+            "unit": "teentjes",
+            "notes": "geperst"
+        },
+        {
+            "name": "zout",
+            "quantity": "0.5",
+            "unit": "theelepel"
+        },
+        {
+            "name": "zwarte peper",
+            "quantity": "0.5",
+            "unit": "theelepel"
+        },
+        {
+            "name": "gedroogde oregano",
+            "quantity": "1",
+            "unit": "theelepel"
+        },
+        {
+            "name": "gedroogde peterselie",
+            "quantity": "1",
+            "unit": "theelepel"
+        },
+        {
+            "name": "zeezout",
+            "quantity": "10",
+            "unit": "gram"
+        },
+        {
+            "name": "donker bruine basterdsuiker",
+            "quantity": "20",
+            "unit": "gram"
+        },
+        {
+            "name": "paprikapoeder mild",
+            "quantity": "5",
+            "unit": "gram"
+        },
+        {
+            "name": "versgemalen peper",
+            "quantity": "0.5",
+            "unit": "eetlepel"
+        },
+        {
+            "name": "knoflookpoeder",
+            "quantity": "1",
+            "unit": "theelepel"
+        },
+        {
+            "name": "uienpoeder",
+            "quantity": "1",
+            "unit": "theelepel"
+        },
+        {
+            "name": "cayennepeper",
+            "quantity": "0.33",
+            "unit": "theelepel"
+        },
+        {
+            "name": "plakken ontbijtspek",
+            "quantity": "20",
+            "unit": "pieces"
+        },
+        {
+            "name": "barbecuesaus",
+            "quantity": "50",
+            "unit": "ml",
+            "notes": "ik gebruik smokey bbq saus"
+        },
+        {
+            "name": "honing",
+            "quantity": "25",
+            "unit": "ml"
+        }
+    ],
+    "steps": [
+        "Meng in een kom het gehakt met alle ingrediënten. Kneed goed door elkaar en rol hier een groot gehaktbrood van, in een langwerpige vorm.",
+        "Rol het gehaktbrood door de bbq rub. Omwikkel het gehaktbrood met plakken gerookt ontbijtspek. Doe dit door op je werkbak twee plakken ontbijtspek naast elkaar te leggen, met uiteinden een klein stukje overlappend. En leg hier telkens een plakje onder zodat een soort matje ontstaat. Leg het gehaktbrood er in het midden op en vouw plakje voor plakje om het gehaktbrood heen. Verpak het gehaktbrood vervolgens in aluminiumfolie.",
+        "Verwarm de E Braai op 120 graden. Verwarm het gehaktbrood 60 minuten op de barbecue, met de deksel dicht.",
+        "Verwarm ondertussen 100 ml barbecuesaus in een pannetje en roer hier 50 ml honing door. Zet het vuur hierna uit",
+        "Verwijder na een uur het aluminiumfolie van het gehaktbrood en verwarm de E Braai naar 180 tot 200 graden.",
+        "Bestrijk het gehaktbrood met de barbecuesaus en grill het rondom aan op de barbecue.",
+        "Snijd het gehaktbrood hierna in plakken en serveer het direct."
+    ],
+    "votes": 0,
+    "rating": 0
+}

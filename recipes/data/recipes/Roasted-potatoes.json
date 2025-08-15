@@ -1,0 +1,58 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Roasted Potatoes, Carrots, and Onions",
+    "description": "A simple and delicious roasted vegetable dish, perfect for a quick side or vegetarian meal.",
+    "ingredients": [
+      {
+        "name": "Potatoes",
+        "quantity": "4",
+        "unit": "medium"
+      },
+      {
+        "name": "Carrots",
+        "quantity": "3",
+        "unit": "medium"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1",
+        "unit": "large"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": "2",
+        "unit": "tablespoons"
+      },
+      {
+        "name": "Salt",
+        "quantity": "1",
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Black Pepper",
+        "quantity": "1/2",
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Garlic Powder",
+        "quantity": "1",
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Dried Thyme",
+        "quantity": "1",
+        "unit": "teaspoon"
+      }
+    ],
+    "steps": [
+      "Preheat your oven to 425°F (220°C).",
+      "Wash and peel the potatoes and carrots. Cut them into bite-sized pieces.",
+      "Peel and slice the onion into wedges.",
+      "In a large bowl, combine the potatoes, carrots, and onions.",
+      "Drizzle with olive oil and toss to coat evenly.",
+      "Add salt, black pepper, garlic powder, and dried thyme. Toss again to combine.",
+      "Spread the vegetable mixture on a baking sheet in a single layer.",
+      "Roast in the preheated oven for about 25-30 minutes, or until the vegetables are tender and slightly caramelized, stirring halfway through.",
+      "Remove from the oven and let cool for a few minutes before serving."
+    ]
+  }

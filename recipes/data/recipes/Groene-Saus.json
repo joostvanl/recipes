@@ -1,0 +1,82 @@
+{
+    "$schema": "https:\/\/json-schema.org\/draft\/2020-12\/schema",
+    "title": "Groene Saus voor Entrec\u00f4te en Frites",
+    "description": "Een iconische groene saus op basis van kruiden, ansjovis en noten die perfect past bij entrec\u00f4te en frites. Romig, kruidig en intens van smaak \u2013 een echte showstopper.",
+    "ingredients": [
+        {
+            "name": "Ongezouten boter",
+            "quantity": "300",
+            "unit": "g"
+        },
+        {
+            "name": "Sjalotten",
+            "quantity": "3",
+            "unit": "whole"
+        },
+        {
+            "name": "Gehakte dragon",
+            "quantity": "1",
+            "unit": "tsp"
+        },
+        {
+            "name": "Peterselie",
+            "quantity": "2",
+            "unit": "tsp"
+        },
+        {
+            "name": "Salieblaadjes (of basilicum)",
+            "quantity": "3",
+            "unit": "leaves"
+        },
+        {
+            "name": "Nootmuskaat",
+            "quantity": "0.5",
+            "unit": "tsp"
+        },
+        {
+            "name": "Walnoten",
+            "quantity": "5",
+            "unit": "pieces"
+        },
+        {
+            "name": "Ansjovis in zout en olie",
+            "quantity": "30",
+            "unit": "g"
+        },
+        {
+            "name": "Worcestersaus",
+            "quantity": "1",
+            "unit": "tsp"
+        },
+        {
+            "name": "Kappertjes",
+            "quantity": "1",
+            "unit": "tsp"
+        },
+        {
+            "name": "Eigeel",
+            "quantity": "1",
+            "unit": "whole"
+        },
+        {
+            "name": "Dijonmosterd",
+            "quantity": "1",
+            "unit": "tsp"
+        },
+        {
+            "name": "Peper en zout",
+            "quantity": "to taste",
+            "unit": "none"
+        }
+    ],
+    "steps": [
+        "Smelt een derde van de boter in een pan samen met de fijngesneden sjalotten en salieblaadjes. Let erop dat de sjalot niet verkleurt.",
+        "Voeg alle overige ingredi\u00ebnten toe behalve het eigeel, de mosterd en de Worchestersaus.",
+        "Voeg vervolgens de rest van de boter toe en laat het geheel zachtjes verwarmen. Mix daarna alles met een staafmixer of blender tot een gladde massa.",
+        "Doe het eigeel, de Dijonmosterd en de Worchestersaus in een aparte kom en klop goed door elkaar.",
+        "Voeg het warme botermengsel beetje bij beetje toe aan het eigeel-mengsel terwijl je blijft mixen, tot de saus een mayonaise-achtige structuur krijgt.",
+        "Verwarm twee derde van deze saus opnieuw op laag vuur tot er \u2018scheurtjes\u2019 in de saus verschijnen (niet koken). Laat afkoelen en meng met de resterende koude saus voor een rijke en gelaagde textuur."
+    ],
+    "votes": 1,
+    "rating": 5
+}

@@ -1,0 +1,56 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Authentieke Pasta Carbonara",
+    "description": "Een klassiek Italiaans gerecht dat spaghetti combineert met een romige saus gemaakt van eieren, kaas, pancetta en peper.",
+    "ingredients": [
+        {
+            "name": "Spaghetti",
+            "quantity": "400",
+            "unit": "gram"
+        },
+        {
+            "name": "Pancetta",
+            "quantity": "150",
+            "unit": "gram"
+        },
+        {
+            "name": "Eierdooiers",
+            "quantity": "4",
+            "unit": "grote"
+        },
+        {
+            "name": "Parmezaanse kaas",
+            "quantity": "100",
+            "unit": "gram"
+        },
+        {
+            "name": "Zwarte peper",
+            "quantity": "1",
+            "unit": "theelepel"
+        },
+        {
+            "name": "Zout",
+            "quantity": "naar smaak",
+            "unit": ""
+        },
+        {
+            "name": "Olijfolie",
+            "quantity": "1",
+            "unit": "eetlepel"
+        }
+    ],
+    "steps": [
+        "Breng een grote pan gezouten water aan de kook. Voeg de spaghetti toe en kook volgens de aanwijzingen op de verpakking tot al dente.",
+        "Snijd ondertussen de pancetta in kleine stukjes.",
+        "Verhit in een grote koekenpan op middelhoog vuur de olijfolie en bak de pancetta tot deze knapperig en goudbruin is.",
+        "Klop in een kom de eierdooiers, geraspte Parmezaanse kaas en zwarte peper goed door elkaar.",
+        "Giet de pasta af, maar bewaar ongeveer 1 kopje van het pastawater.",
+        "Voeg de hete pasta direct toe aan de koekenpan met de pancetta en meng goed door elkaar.",
+        "Haal de pan van het vuur en voeg snel het eiermengsel toe aan de pasta, roer krachtig om een romige saus te krijgen. Voeg indien nodig beetje bij beetje het bewaarde pastawater toe om de gewenste consistentie te bereiken.",
+        "Serveer meteen met extra geraspte Parmezaanse kaas en versgemalen zwarte peper."
+    ],
+    "votes": 0,
+    "rating": 0,
+    "reviews": [],
+    "image": "https://img.chefkoch-cdn.de/rezepte/1298241234947062/bilder/1590571/crop-960x540/carbonara-wie-bei-der-mamma-in-rom.jpg"
+}

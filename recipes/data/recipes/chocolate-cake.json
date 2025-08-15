@@ -1,0 +1,54 @@
+{
+    "title": "Chocolate Cake",
+    "description": "A rich and moist chocolate cake, perfect for dessert or celebrations.",
+    "ingredients": [
+        {
+            "name": "All-purpose Flour",
+            "quantity": "200",
+            "unit": "g"
+        },
+        {
+            "name": "Sugar",
+            "quantity": "200",
+            "unit": "g"
+        },
+        {
+            "name": "Cocoa Powder",
+            "quantity": "50",
+            "unit": "g"
+        },
+        {
+            "name": "Baking Powder",
+            "quantity": "2",
+            "unit": "tsp"
+        },
+        {
+            "name": "Eggs",
+            "quantity": "2",
+            "unit": "pieces"
+        },
+        {
+            "name": "Milk",
+            "quantity": "120",
+            "unit": "ml"
+        },
+        {
+            "name": "Vegetable Oil",
+            "quantity": "100",
+            "unit": "ml"
+        },
+        {
+            "name": "Vanilla Extract",
+            "quantity": "1",
+            "unit": "tsp"
+        }
+    ],
+    "steps": [
+        "Preheat oven to 180\u00b0C (350\u00b0F) and grease a baking tin.",
+        "Mix all dry ingredients in a bowl.",
+        "In another bowl, beat eggs and mix with milk, oil, and vanilla extract.",
+        "Combine the wet and dry ingredients and mix until smooth.",
+        "Pour the batter into the baking tin and bake for 30-35 minutes.",
+        "Let the cake cool before serving."
+    ]
+}

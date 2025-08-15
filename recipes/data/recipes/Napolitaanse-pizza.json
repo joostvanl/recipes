@@ -1,0 +1,36 @@
+{
+    "$schema": "https:\/\/json-schema.org\/draft\/2020-12\/schema",
+    "title": "Napolitaanse pizza",
+    "description": "De Napolitaanse pizza kan ook thuis worden bereid! Hier is het recept van Ciro Salvo, met alle geheimen en stappen voor een lekkere, lichte en gemakkelijk verteerbare zelfgemaakte pizza.",
+    "ingredients": [
+        {
+            "name": "Bloem (type 0 of 00)",
+            "quantity": "700-750",
+            "unit": "gram"
+        },
+        {
+            "name": "Water",
+            "quantity": "0.5",
+            "unit": "liter"
+        },
+        {
+            "name": "Verse biergist",
+            "quantity": "6",
+            "unit": "gram"
+        },
+        {
+            "name": "Zout",
+            "quantity": "20",
+            "unit": "gram"
+        }
+    ],
+    "steps": [
+        "Los de gist op in 0,5 liter koud water. Voeg 2\/3 van de bloem toe aan het water en meng met een lepel in een spiralen beweging tot een goed gemengd mengsel. Zodra het deeg een halfvloeibare consistentie heeft gekregen, voeg het zout toe. Blijf met de lepel kneden en strooi de rest van de bloem beetje bij beetje erbij, altijd met een cirkelvormige beweging, waarbij je het deeg naar de randen van de kom duwt om klonten te verwijderen en de bloem goed te laten opnemen.",
+        "Wanneer het deeg halfvast is, ga je verder met kneden op het werkoppervlak met de hand. Kneed om bloem en water goed te binden en het deeg elasticiteit te geven, je moet een glad en zacht bolletje krijgen.",
+        "Plaats het deeg in een grote kom met olie ingevet, dek af en laat het minstens 7-8 uur rijzen op kamertemperatuur.",
+        "Na deze tijd verdeel je het deeg in bolletjes van ongeveer 250 gram per stuk en leg je ze in een luchtdichte pizza-doos om nog eens 7-8 uur te rijzen, ook weer op kamertemperatuur.",
+        "Na de tweede rijzing kun je de pizza uitrollen. Op een goed ingevette bakplaat rol je een bolletje deeg gelijkmatig uit: begin in het midden en duw de lucht naar de randen, zonder deze plat te drukken. Beleg de pizza met San Marzano gepelde tomaten, laat de rand vrij, basilicum en goed uitgelekte fior di latte of buffelmozzarella in niet te grote stukjes gesneden. Bak in een statische oven op de hoogste stand, 250-300 °C, waarbij je de bakplaat eerst onderin de oven plaatst voor 5-6 minuten. Controleer de gaarheid en plaats de bakplaat daarna in het midden van de oven voor nog 7-8 minuten. Haal de Napolitaanse pizza uit de oven en werk af met verse basilicum, een beetje geraspte Parmezaanse kaas en een scheut extra vierge olijfolie naar smaak."
+    ],
+    "votes": 0,
+    "rating": 0
+}

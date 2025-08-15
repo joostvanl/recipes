@@ -1,0 +1,123 @@
+{
+    "$schema": "https:\/\/json-schema.org\/draft\/2020-12\/schema",
+    "title": "Beef and Broccoli Stir-Fry Recipe",
+    "description": "A quick and flavorful stir-fry featuring tender beef strips and crisp broccoli in a savory, well-balanced sauce.",
+    "ingredients": [
+        {
+            "name": "Beef strips (sirloin, flank, or ribeye)",
+            "quantity": "300",
+            "unit": "g"
+        },
+        {
+            "name": "Broccoli florets",
+            "quantity": "2",
+            "unit": "cups"
+        },
+        {
+            "name": "Garlic, minced",
+            "quantity": "3",
+            "unit": "cloves"
+        },
+        {
+            "name": "Ginger, minced",
+            "quantity": "1",
+            "unit": "inch"
+        },
+        {
+            "name": "Oil (vegetable or peanut)",
+            "quantity": "1",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Sesame seeds (optional, for garnish)",
+            "quantity": "1",
+            "unit": "tsp"
+        },
+        {
+            "name": "Sliced green onions (optional, for garnish)",
+            "quantity": "as needed",
+            "unit": "none"
+        },
+        {
+            "name": "Soy sauce (for marinade)",
+            "quantity": "2",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Oyster sauce (for marinade)",
+            "quantity": "1",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Cornstarch (for marinade)",
+            "quantity": "1",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Shaoxing wine or dry sherry (optional, for marinade)",
+            "quantity": "1",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Sesame oil (for marinade)",
+            "quantity": "1",
+            "unit": "tsp"
+        },
+        {
+            "name": "Baking soda (for tenderness, marinade)",
+            "quantity": "0.5",
+            "unit": "tsp"
+        },
+        {
+            "name": "Soy sauce (for sauce)",
+            "quantity": "3",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Oyster sauce (for sauce)",
+            "quantity": "2",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Honey",
+            "quantity": "2",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Brown sugar",
+            "quantity": "1",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Beef broth or water",
+            "quantity": "0.5",
+            "unit": "cup"
+        },
+        {
+            "name": "Cornstarch (for slurry, mixed with water)",
+            "quantity": "1",
+            "unit": "tbsp"
+        },
+        {
+            "name": "Rice vinegar",
+            "quantity": "1",
+            "unit": "tsp"
+        },
+        {
+            "name": "Sesame oil (for sauce)",
+            "quantity": "0.5",
+            "unit": "tsp"
+        }
+    ],
+    "steps": [
+        "Marinate the beef: Mix the beef strips with the marinade ingredients (soy sauce, oyster sauce, cornstarch, Shaoxing wine, sesame oil, and baking soda) and let sit for at least 30 minutes.",
+        "Prepare the sauce: Whisk together the sauce ingredients (soy sauce, oyster sauce, honey, brown sugar, beef broth or water, cornstarch slurry, rice vinegar, and sesame oil) in a bowl and set aside.",
+        "Blanch the broccoli: Boil water and blanch the broccoli florets for 30 seconds, then transfer to ice water, drain, and set aside.",
+        "Sear the beef: Heat oil in a pan over high heat and sear the beef for 1-2 minutes per side until browned; then remove and set aside.",
+        "Saut\u00e9 aromatics: In the same pan, add minced garlic and ginger, stir-frying for 30 seconds until fragrant.",
+        "Combine and cook: Add the blanched broccoli and beef back into the pan, pour in the prepared sauce, and stir well. Simmer for 1-2 minutes until the sauce thickens.",
+        "Garnish and serve: Garnish with sesame seeds and sliced green onions, and serve hot over steamed rice or noodles."
+    ],
+    "votes": 2,
+    "rating": 2.5
+}

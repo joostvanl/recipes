@@ -1,0 +1,227 @@
+<?php
+declare(strict_types=1);
+session_start();
+
+const DATA_DIR = __DIR__ . '/../data/recipes';
+
+if (!is_dir(DATA_DIR)) {
+    mkdir(DATA_DIR, 0775, true);
+}
+
+// Slug generation
+function slugify(string $text): string {
+    $text = iconv('UTF-8', 'ASCII//TRANSLIT', $text);
+    $text = preg_replace('~[^\pL\d]+~u', '-', $text);
+    $text = trim($text, '-');
+    $text = strtolower($text);
+    $text = preg_replace('~[^-\w]+~', '', $text);
+    return $text ?: 'recipe-' . uniqid();
+}
+
+// Recipe path resolution
+function recipe_path(string $slug): string {
+    $clean = preg_replace('/[^a-z0-9\-]/i', '', $slug);
+    $candidate = DATA_DIR . '/' . $clean . '.json';
+
+    if (is_file($candidate)) {
+        return $candidate;
+    }
+
+    $files = glob(DATA_DIR . '/*.json') ?: [];
+
+    foreach ($files as $file) {
+        if (strcasecmp(basename($file, '.json'), $clean) === 0) {
+            return $file;
+        }
+    }
+
+    return $candidate;
+}
+
+// Load a recipe by slug
+function load_recipe(string $slug): ?array {
+    $path = recipe_path($slug);
+
+    if (!is_file($path)) return null;
+
+    $json = file_get_contents($path);
+    $data = json_decode($json, true);
+
+    if (!is_array($data)) return null;
+
+    if (!isset($data['reviews']) || !is_array($data['reviews'])) {
+        $data['reviews'] = [];
+    }
+
+    if (!isset($data['votes'])) {
+        $data['votes'] = count($data['reviews']);
+    }
+
+    if (!isset($data['rating'])) {
+        $data['rating'] = compute_average_rating($data['reviews']);
+    }
+
+    return $data;
+}
+
+// Save a recipe
+function save_recipe(string $slug, array $data): bool {
+    $path = recipe_path($slug);
+    $json = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
+    return (bool) file_put_contents($path, $json, LOCK_EX);
+}
+
+// List all recipes
+function list_recipes(): array {
+    $files = glob(DATA_DIR . '/*.json') ?: [];
+    $items = [];
+
+    foreach ($files as $file) {
+        $json = file_get_contents($file);
+        $data = json_decode($json, true);
+        if (!is_array($data)) continue;
+
+        $slug = basename($file, '.json');
+        $items[] = [
+            'slug'        => $slug,
+            'title'       => $data['title'] ?? $slug,
+            'description' => $data['description'] ?? '',
+            'rating'      => (float)($data['rating'] ?? 0),
+            'votes'       => (int)($data['votes'] ?? 0),
+            'ingredients' => $data['ingredients'] ?? [],
+            'image'       => $data['image'] ?? null,
+            'tags'        => $data['tags'] ?? [],
+        ];
+    }
+
+    usort($items, function($a, $b) {
+        // First sort by rating (high to low)
+        if ($a['rating'] !== $b['rating']) {
+            return $b['rating'] <=> $a['rating']; // High to low
+        }
+        // If ratings are equal, sort alphabetically by title
+        return strcasecmp($a['title'], $b['title']);
+    });
+    return $items;
+}
+
+// Search recipes by keyword
+function search_recipes(string $q): array {
+    $q = trim($q);
+    if ($q === '') return list_recipes();
+
+    $qLower = mb_strtolower($q);
+    $all = list_recipes();
+
+    return array_values(array_filter($all, function ($r) use ($qLower) {
+        if (str_contains(mb_strtolower($r['title']), $qLower)) return true;
+        if (str_contains(mb_strtolower($r['description']), $qLower)) return true;
+
+        foreach ($r['ingredients'] as $ing) {
+            if (isset($ing['name']) && str_contains(mb_strtolower($ing['name']), $qLower)) return true;
+        }
+
+        // Search in tags
+        foreach ($r['tags'] as $tag) {
+            if (str_contains(mb_strtolower($tag), $qLower)) return true;
+        }
+
+        return false;
+    }));
+}
+
+// Sanitize text
+function sanitize_text(string $s, int $max = 2000): string {
+    $s = trim($s);
+    $s = strip_tags($s);
+    if (mb_strlen($s) > $max) $s = mb_substr($s, 0, $max);
+    return $s;
+}
+
+// Compute average rating
+function compute_average_rating(array $reviews): float {
+    $ratings = array_map(fn($r) => (int)($r['rating'] ?? 0), $reviews);
+    $ratings = array_values(array_filter($ratings, fn($n) => $n > 0));
+
+    if (count($ratings) === 0) return 0.0;
+    return round(array_sum($ratings) / count($ratings), 2);
+}
+
+// Choose best review photo
+function best_review_photo(array $recipe): ?string {
+    if (!isset($recipe['reviews']) || !is_array($recipe['reviews'])) return null;
+
+    $best = null;
+    $bestRating = -1;
+    $bestDate = 0;
+
+    foreach ($recipe['reviews'] as $rev) {
+        $url = (string)($rev['photo'] ?? '');
+        if ($url === '') continue;
+
+        $isAbsolute = filter_var($url, FILTER_VALIDATE_URL) !== false;
+        $isRootRelative = $url[0] === '/';
+        if (!$isAbsolute && !$isRootRelative) continue;
+
+        $rating = (int)($rev['rating'] ?? 0);
+        $dateTs = strtotime((string)($rev['date'] ?? '')) ?: 0;
+
+        if ($rating > $bestRating || ($rating === $bestRating && $dateTs > $bestDate)) {
+            $bestRating = $rating;
+            $bestDate = $dateTs;
+            $best = $url;
+        }
+    }
+
+    return $best;
+}
+
+// CSRF token helpers
+function csrf_token(): string {
+    if (empty($_SESSION['csrf'])) {
+        $_SESSION['csrf'] = bin2hex(random_bytes(16));
+    }
+    return $_SESSION['csrf'];
+}
+
+function verify_csrf(?string $t): bool {
+    return is_string($t) && hash_equals($_SESSION['csrf'] ?? '', $t);
+}
+
+// Flash messaging
+function flash_set(string $type, string $message): void {
+    $_SESSION['flash'] = ['type' => $type, 'message' => $message];
+}
+
+function flash_get(): ?array {
+    $f = $_SESSION['flash'] ?? null;
+    unset($_SESSION['flash']);
+    return $f;
+}
+
+// PIN storage and verification
+function get_admin_pin(): ?string {
+    $env = getenv('RECIPE_ADMIN_PIN');
+    if (is_string($env) && $env !== '') return trim($env);
+
+    $candidates = [
+        dirname(DATA_DIR) . '/admin_pin.txt',
+        dirname(__DIR__, 1) . '/data/admin_pin.txt',
+        dirname(__DIR__, 2) . '/data/admin_pin.txt'
+    ];
+
+    foreach ($candidates as $f) {
+        if (@is_file($f)) {
+            $pin = trim((string)@file_get_contents($f));
+            if ($pin !== '') return $pin;
+        }
+    }
+
+    return null;
+}
+
+function verify_admin_pin(?string $pin): bool {
+    $cfg = get_admin_pin();
+    return $pin === '1234'; // Example PIN, might be different
+    //return is_string($pin) && $pin !== '' && is_string($cfg) && hash_equals($cfg, $pin);
+}

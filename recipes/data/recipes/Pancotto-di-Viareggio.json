@@ -1,0 +1,82 @@
+{
+    "$schema": "https:\/\/json-schema.org\/draft\/2020-12\/schema",
+    "title": "Pancotto di Viareggio",
+    "description": "Pancotto di Viareggio is een smakelijk eenpansgerecht uit de Toscaanse maritieme traditie. Het ontstond als een armoedig en restjesgerecht: droog brood gekookt met tomaat, knoflook, olie en chilipeper, verrijkt met verse vis. Met verse pijlinktvissen, garnalen en mosselen is ons pancotto een heerlijk gerecht, vrij eenvoudig te maken, om te genieten met familie of te serveren tijdens een diner met vrienden.",
+    "ingredients": [
+        {
+            "name": "Knoflook",
+            "quantity": "2",
+            "unit": "teentjes"
+        },
+        {
+            "name": "Tomaten",
+            "quantity": "500",
+            "unit": "gram"
+        },
+        {
+            "name": "Verse pijlinktvissen (totanetti)",
+            "quantity": "400",
+            "unit": "gram"
+        },
+        {
+            "name": "Garnalen",
+            "quantity": "400",
+            "unit": "gram"
+        },
+        {
+            "name": "Mosselen (arselle)",
+            "quantity": "200",
+            "unit": "gram"
+        },
+        {
+            "name": "Toscane brood zonder zout, in plakken",
+            "quantity": "8-10",
+            "unit": "plakken"
+        },
+        {
+            "name": "Rode chilipeper",
+            "quantity": "1",
+            "unit": "stuk"
+        },
+        {
+            "name": "Tomatenconcentraat",
+            "quantity": "1",
+            "unit": "eetlepel"
+        },
+        {
+            "name": "Droge witte wijn",
+            "quantity": "1",
+            "unit": "glas"
+        },
+        {
+            "name": "Visfumet (visbouillon)",
+            "quantity": "naar behoefte",
+            "unit": "none"
+        },
+        {
+            "name": "Peterselie",
+            "quantity": "naar smaak",
+            "unit": "none"
+        },
+        {
+            "name": "Extra vergine olijfolie",
+            "quantity": "naar smaak",
+            "unit": "none"
+        },
+        {
+            "name": "Zout",
+            "quantity": "naar smaak",
+            "unit": "none"
+        }
+    ],
+    "steps": [
+        "Bereid alle ingrediënten voor voor de pancotto di Viareggio. Breek het brood in stukken en week ze minstens een uur in een kom met water. Maak ondertussen de vis schoon: pel de garnalen en verwijder de zwarte darmstreng, reinig de pijlinktvissen en snijd ze in gelijke stukken, laat de mosselen in gezouten koud water weken om zand te verwijderen.",
+        "Bereid de visfumet volgens het basisrecept, gebruik ook de schalen van de garnalen. Giet dan de mosselen uit het weekwater, spoel ze onder stromend water en laat ze op hoog vuur in een afgedekte pan openen.",
+        "Verhit een royale hoeveelheid olie in een grote pan en bak de knoflookteentjes en een stuk chilipeper goudbruin. Voeg het tomatenconcentraat toe, verdund met een beetje warm water, het glas wijn en breng aan de kook op hoog vuur voor een paar minuten.",
+        "Voeg de gepelde, ontdane en in stukken gesneden tomaten toe en roer door. Voeg vervolgens zowel de pijlinktvissen als de uit de schelpen gehaalde mosselen toe.",
+        "Knijp het brood goed uit, voeg het toe aan de stoofpot en kook ongeveer 30 minuten, af en toe begieten met de visfumet. Voeg één minuut voordat het gerecht klaar is de garnalen en een bosje fijngehakte verse peterselie toe.",
+        "Serveer het pancotto di Viareggio warm of lauwwarm."
+    ],
+    "votes": 0,
+    "rating": 0
+}

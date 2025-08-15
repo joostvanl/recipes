@@ -1,0 +1,84 @@
+{
+    "$schema": "https:\/\/json-schema.org\/draft\/2020-12\/schema",
+    "title": "Tomaten orzo met gehakt en mozzarella",
+    "description": "Een heerlijke, romige orzo met gehakt en mozzarella.",
+    "ingredients": [
+        {
+            "name": "orzo",
+            "quantity": "250",
+            "unit": "gr"
+        },
+        {
+            "name": "rundergehakt",
+            "quantity": "300",
+            "unit": "gr"
+        },
+        {
+            "name": "courgette",
+            "quantity": "1",
+            "unit": "none"
+        },
+        {
+            "name": "ui",
+            "quantity": "1",
+            "unit": "none"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1",
+            "unit": "none"
+        },
+        {
+            "name": "knoflook",
+            "quantity": "2",
+            "unit": "tenen"
+        },
+        {
+            "name": "bol mozzarella",
+            "quantity": "1",
+            "unit": "none"
+        },
+        {
+            "name": "basilicum",
+            "quantity": "2",
+            "unit": "tl"
+        },
+        {
+            "name": "oregano",
+            "quantity": "2",
+            "unit": "tl"
+        },
+        {
+            "name": "tomaten passata",
+            "quantity": "300",
+            "unit": "ml"
+        },
+        {
+            "name": "groentebouillon",
+            "quantity": "500",
+            "unit": "ml"
+        },
+        {
+            "name": "crispy chili oil",
+            "quantity": "to taste",
+            "unit": "none"
+        },
+        {
+            "name": "zout\/peper",
+            "quantity": "to taste",
+            "unit": "none"
+        }
+    ],
+    "steps": [
+        "Snipper de ui en snijd de knoflook fijn.",
+        "Snijd de paprika en courgette in stukjes.",
+        "Breng het gehakt op smaak met de kruiden.",
+        "Giet een scheutje olie in een hapjespan en voeg het gehakt toe. Bak het gehakt rul.",
+        "Voeg de ui, paprika, knoflook en courgette toe. Bak dit 5 minuten mee.",
+        "Voeg de orzo, tomaten passaat en bouillon toe.",
+        "Laat de orzo zachtjes pruttelen totdat het gaar is (15 minuten ongeveer). Roer regelmatig door, orzo wil nog wel eens vast gaan kleven aan de bodem van de pan.",
+        "Verdeel de orzo over 3 borden. Serveer met wat stukjes mozzarella, verse basilicum en crispy chili oil."
+    ],
+    "votes": 0,
+    "rating": 0
+}

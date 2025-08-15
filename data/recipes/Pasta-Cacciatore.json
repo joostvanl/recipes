@@ -1,0 +1,82 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Pasta Cacciatore Recipe",
+    "description": "A hearty pasta dish featuring tender chicken thighs, crispy bacon, spicy chorizo, and a rich tomato-based sauce with aromatic herbs.",
+    "ingredients": [
+      {
+        "name": "Chicken thighs, boneless, skin-on",
+        "quantity": "4",
+        "unit": "pieces"
+      },
+      {
+        "name": "Bacon, chopped",
+        "quantity": "4",
+        "unit": "slices"
+      },
+      {
+        "name": "Chorizo, sliced",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "name": "Mushrooms, sliced",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "name": "Onion, diced",
+        "quantity": "1",
+        "unit": "large"
+      },
+      {
+        "name": "Passata",
+        "quantity": "500",
+        "unit": "ml"
+      },
+      {
+        "name": "Canned tomatoes, crushed",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "name": "Dried oregano",
+        "quantity": "2",
+        "unit": "tsp"
+      },
+      {
+        "name": "Dried thyme",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "name": "Dried basil",
+        "quantity": "1",
+        "unit": "tsp"
+      },
+      {
+        "name": "Dried pasta (penne or spaghetti)",
+        "quantity": "500",
+        "unit": "g"
+      },
+      {
+        "name": "Salt and pepper",
+        "quantity": "to taste",
+        "unit": "none"
+      },
+      {
+        "name": "Olive oil",
+        "quantity": "as needed",
+        "unit": "none"
+      }
+    ],
+    "steps": [
+      "Prepare the chicken: Season the chicken thighs with salt, pepper, and half of the dried herbs. Cook in a skillet until golden brown, then set aside.",
+      "Cook the bacon and chorizo: In the same skillet, cook the chopped bacon and sliced chorizo until slightly crispy. Remove and set aside.",
+      "Sauté onions and mushrooms: In the same skillet, sauté the diced onion until translucent. Add the sliced mushrooms and cook until golden brown, then set aside.",
+      "Simmer the sauce: Return the bacon and chorizo to the skillet. Pour in the passata and crushed canned tomatoes, stir in the remaining dried herbs, and season with salt and pepper. Simmer for 15-20 minutes.",
+      "Finish the dish: Return the chicken thighs to the skillet with the sauce, cover, and cook for an additional 15-20 minutes until the chicken is cooked through.",
+      "Cook the pasta: Meanwhile, cook the pasta according to package instructions until al dente. Drain and toss with a little olive oil to prevent sticking.",
+      "Serve: Plate the pasta and spoon the hearty sauce with chicken, bacon, chorizo, and vegetables over the top."
+    ]
+  }
+  

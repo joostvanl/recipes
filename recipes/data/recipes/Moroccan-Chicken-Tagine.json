@@ -1,0 +1,116 @@
+{
+    "$schema": "https:\/\/json-schema.org\/draft\/2020-12\/schema",
+    "title": "Moroccan Chicken Tagine with Root Vegetables & Couscous",
+    "description": "A traditional Moroccan chicken tagine featuring seasoned chicken legs, root vegetables, and chickpeas slow-cooked with aromatic spices. Served over fluffy couscous. (Serves 5)",
+    "ingredients": [
+        {
+            "name": "Chicken legs (bone-in, skin-on optional)",
+            "quantity": "5",
+            "unit": "pieces"
+        },
+        {
+            "name": "Onions, sliced",
+            "quantity": "2",
+            "unit": "whole"
+        },
+        {
+            "name": "Garlic, minced",
+            "quantity": "4",
+            "unit": "cloves"
+        },
+        {
+            "name": "Carrots, chopped",
+            "quantity": "2",
+            "unit": "pieces"
+        },
+        {
+            "name": "Parsnips or sweet potato, chopped",
+            "quantity": "2 or 1",
+            "unit": "pieces"
+        },
+        {
+            "name": "Chickpeas, drained (canned)",
+            "quantity": "1",
+            "unit": "can"
+        },
+        {
+            "name": "Chicken broth",
+            "quantity": "1.5",
+            "unit": "cups"
+        },
+        {
+            "name": "Ground cumin",
+            "quantity": "2",
+            "unit": "tsp"
+        },
+        {
+            "name": "Ground cinnamon",
+            "quantity": "1",
+            "unit": "tsp"
+        },
+        {
+            "name": "Paprika",
+            "quantity": "1",
+            "unit": "tsp"
+        },
+        {
+            "name": "Turmeric",
+            "quantity": "0.5",
+            "unit": "tsp"
+        },
+        {
+            "name": "Salt and black pepper",
+            "quantity": "to taste",
+            "unit": ""
+        },
+        {
+            "name": "Olive oil",
+            "quantity": "as needed",
+            "unit": ""
+        },
+        {
+            "name": "Preserved lemon (optional)",
+            "quantity": "to taste",
+            "unit": ""
+        },
+        {
+            "name": "Dried apricots (optional)",
+            "quantity": "to taste",
+            "unit": ""
+        },
+        {
+            "name": "Couscous",
+            "quantity": "1",
+            "unit": "cup"
+        },
+        {
+            "name": "Boiling water (for couscous)",
+            "quantity": "1",
+            "unit": "cup"
+        },
+        {
+            "name": "Olive oil or butter (for couscous)",
+            "quantity": "a drizzle or knob",
+            "unit": ""
+        },
+        {
+            "name": "Fresh cilantro or parsley, chopped (for garnish)",
+            "quantity": "to taste",
+            "unit": ""
+        }
+    ],
+    "steps": [
+        "Pat the chicken legs dry and season generously with salt, black pepper, ground cumin, and paprika.",
+        "In a Dutch oven, heat olive oil over medium heat. Brown the chicken on all sides in batches if needed, then remove and set aside.",
+        "In the same pot, add a little more olive oil if necessary and saut\u00e9 the sliced onions until soft and golden.",
+        "Add the minced garlic, ground cinnamon, and turmeric. Stir for about a minute until fragrant.",
+        "Toss in the chopped carrots, parsnips (or sweet potato), and drained chickpeas. Stir well to coat with the spices.",
+        "Nestle the browned chicken legs back into the pot and add the chicken broth\u2014just enough to mostly cover the contents.",
+        "If using, add a few chopped dried apricots or slices of preserved lemon for extra depth.",
+        "Bring to a gentle simmer. Cover and let it cook over low heat for 1.5 to 2 hours, or until the chicken is very tender and the flavors are rich. (Optional: Remove the lid during the last 15\u201320 minutes to slightly reduce the sauce.)",
+        "Prepare the couscous: In a bowl, combine 1 cup couscous with 1 cup boiling water, a pinch of salt, and a drizzle of olive oil or a knob of butter. Cover for 5 minutes, then fluff with a fork.",
+        "Serve the chicken tagine over the couscous and top with chopped fresh cilantro or parsley."
+    ],
+    "votes": 5,
+    "rating": 3
+}

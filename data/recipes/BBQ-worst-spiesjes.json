@@ -1,0 +1,63 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "BBQ worst spiesjes",
+    "description": "Deze BBQ worst spiesjes met chorizo en rode ui zijn snel klaar en feestelijk. Serveer ze met yoghurtsaus: een gegarandeerde favoriet.",
+    "ingredients": [
+        {
+            "name": "kleine worstjes (bv. Catalaanse worstjes)",
+            "quantity": "12",
+            "unit": "pieces"
+        },
+        {
+            "name": "chorizo",
+            "quantity": "225",
+            "unit": "gr"
+        },
+        {
+            "name": "Griekse yoghurt",
+            "quantity": "4",
+            "unit": "el"
+        },
+        {
+            "name": "rode ui",
+            "quantity": "1",
+            "unit": "whole"
+        },
+        {
+            "name": "koriander",
+            "quantity": "1",
+            "unit": "takje"
+        },
+        {
+            "name": "honing",
+            "quantity": "1",
+            "unit": "el"
+        },
+        {
+            "name": "gerookt paprikapoeder",
+            "quantity": "1",
+            "unit": "tl"
+        },
+        {
+            "name": "peper en zout",
+            "quantity": "to taste",
+            "unit": "none"
+        },
+        {
+            "name": "metalen spiesjes",
+            "quantity": "4",
+            "unit": "pieces"
+        }
+    ],
+    "steps": [
+        "Haal het velletje van de chorizo en snijd in dikke plakken. Haal de schil van de rode ui en snijd in parten. De partjes zullen een beetje uit elkaar vallen tot lossere uien-stukjes.",
+        "Rijg de worstjes, chorizo-plakken en stukjes ui om en om op de spiesjes.",
+        "Maak het sausje door de yoghurt met de honing en gerookt paprikapoeder te mengen. Breng op smaak met peper en zout. Zet in de koelkast tot gebruik.",
+        "Grill de spiesjes op een hete barbecue in circa 8-10 minuten mooi goudbruin, draai ze regelmatig om. Zorg voor een heet en een wat kouder deel op de bbq, zodat je spiesjes die bijna klaar zijn, verder kunt garen op het koudere deel (zorg dat de worstjes niet verbranden!). Je kunt ze ook op een grillplaat maken, dan duurt het ietsjes langer.",
+        "Hak de koriander fijn. Serveer de worst spiesjes met het sausje en de koriander."
+    ],
+    "votes": 0,
+    "rating": 0,
+    "reviews": [],
+    "image": "https://uitpaulineskeuken.nl/wp-content/uploads/2025/07/Worst-spiesjes-1.jpg"
+}

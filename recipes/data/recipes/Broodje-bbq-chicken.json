@@ -1,0 +1,53 @@
+{
+    "$schema": "https:\/\/json-schema.org\/draft\/2020-12\/schema",
+    "title": "Broodje bbq chicken",
+    "description": "Super lekker broodje kip van de bbq.",
+    "ingredients": [
+        {
+            "name": "pistoletjes",
+            "quantity": "4",
+            "unit": "whole"
+        },
+        {
+            "name": "kipfilet",
+            "quantity": "300",
+            "unit": "gr"
+        },
+        {
+            "name": "barbecue saus",
+            "quantity": "4",
+            "unit": "el"
+        },
+        {
+            "name": "geraspte kaas",
+            "quantity": "",
+            "unit": "none"
+        },
+        {
+            "name": "komkommer",
+            "quantity": "1\/2",
+            "unit": "none"
+        },
+        {
+            "name": "handje sla (rucola of ijsbergsla)",
+            "quantity": "",
+            "unit": "none"
+        },
+        {
+            "name": "peper en zout",
+            "quantity": "snufje",
+            "unit": "none"
+        }
+    ],
+    "steps": [
+        "Verwarm de oven voor (check even de verpakking van de pistoletjes).",
+        "Snijd de kipfilet in kleine stukjes en breng op smaak en zout en peper. Giet een scheut olie in een koekenpan en bak de kip rondom goudbruin en gaar.",
+        "Voeg de barbecuesaus toe aan de kip in de pan en meng goed door. Laat even kort mee verwarmen.",
+        "Snijd de afbakbroodjes open (maar niet helemaal door) en vul ze met de kip. Strooi er wat geraspte kaas overheen.",
+        "Leg de gevulde broodjes op een bakplaat met bakpapier. Bak de broodjes 10 minuten in de oven.",
+        "Haal de broodjes uit de oven en voeg als laatste wat plakjes komkommer en sla toe.",
+        "Serveer direct, eventueel met wat extra barbecuesaus erbij."
+    ],
+    "votes": 0,
+    "rating": 0
+}

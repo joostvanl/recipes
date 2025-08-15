@@ -1,0 +1,124 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Koreaanse sticky kip in wraps met frisse salade",
+    "description": "Koreaanse sticky kipdijfilet in wraps met een frisse knapperige salade. Perfect voor warme zomerdagen, boordevol smaak, textuur en een vleugje fusion.",
+    "ingredients": [
+        {
+            "name": "Kipdijfilets (zonder bot, zonder vel)",
+            "quantity": "8",
+            "unit": "stuk"
+        },
+        {
+            "name": "Gochujang (Koreaanse chilipasta)",
+            "quantity": "1",
+            "unit": "el"
+        },
+        {
+            "name": "Sojasaus",
+            "quantity": "1.5",
+            "unit": "el"
+        },
+        {
+            "name": "Vissaus",
+            "quantity": "1",
+            "unit": "el"
+        },
+        {
+            "name": "Honing of bruine suiker",
+            "quantity": "2",
+            "unit": "el"
+        },
+        {
+            "name": "Rijstazijn of limoensap",
+            "quantity": "1",
+            "unit": "el"
+        },
+        {
+            "name": "Knoflook, fijngehakt",
+            "quantity": "2",
+            "unit": "teentje"
+        },
+        {
+            "name": "Sesamolie",
+            "quantity": "1",
+            "unit": "tl"
+        },
+        {
+            "name": "Tortilla's of flatbreads",
+            "quantity": "4–8",
+            "unit": "stuk"
+        },
+        {
+            "name": "Kropsla, fijngesneden",
+            "quantity": "0.5",
+            "unit": "krop"
+        },
+        {
+            "name": "Witte kool, fijngesneden",
+            "quantity": "100",
+            "unit": "g"
+        },
+        {
+            "name": "Wortel, geraspt of julienne",
+            "quantity": "1",
+            "unit": "stuk"
+        },
+        {
+            "name": "Komkommer, in reepjes",
+            "quantity": "0.5",
+            "unit": "stuk"
+        },
+        {
+            "name": "Paprika (rood of geel), in reepjes",
+            "quantity": "1",
+            "unit": "stuk"
+        },
+        {
+            "name": "Limoen (voor dressing of serveren)",
+            "quantity": "1",
+            "unit": "stuk"
+        },
+        {
+            "name": "Optioneel: verse koriander, sriracha mayo, sesamzaadjes",
+            "quantity": "naar smaak",
+            "unit": ""
+        }
+    ],
+    "steps": [
+        "Meng gochujang, sojasaus, vissaus, honing, rijstazijn, knoflook en sesamolie in een kom tot een marinade. Voeg de gesneden kipdijfilets toe, meng goed en laat minstens 30 minuten marineren (langer is beter).",
+        "Bak de kippendijen in de marinade. Het vocht in de marinade zal verdampen waarna de marinade gaat carameliseren. Let op dat de kip niet verbandt wanneer de marinade is ingedikt. Zorg voor een goudbruin laagje.",
+        "Snijd intussen alle salade-ingrediënten en meng ze in een grote kom. Knijp er wat limoensap over en meng licht.",
+        "Verwarm de wraps kort in een droge pan of oven. Snijd de kip in reepjes zodra hij klaar is.",
+        "Beleg elke wrap met salade en stukjes kip. Voeg optioneel sriracha mayo, koriander of sesamzaadjes toe.",
+        "Vouw en serveer direct. Napkins aanbevolen 😉"
+    ],
+    "votes": 4,
+    "rating": 4.5,
+    "reviews": [
+        {
+            "name": "Anonymous",
+            "rating": 5,
+            "comment": "",
+            "date": "2025-08-13T16:26:29+00:00"
+        },
+        {
+            "name": "Jelle",
+            "rating": 4,
+            "comment": "",
+            "date": "2025-08-13T16:27:00+00:00"
+        },
+        {
+            "name": "Jen",
+            "rating": 4,
+            "comment": "",
+            "date": "2025-08-13T16:27:09+00:00"
+        },
+        {
+            "name": "Jasmijn",
+            "rating": 5,
+            "comment": "",
+            "date": "2025-08-13T16:27:21+00:00"
+        }
+    ],
+    "image": "https://www.b4men.nl/wp-content/uploads/2020/07/Koreaanse-kip-wraps-met-pittige-dip.jpg"
+}

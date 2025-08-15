@@ -1,0 +1,112 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Marokkaanse Kip Bastilla",
+    "description": "Een hartig Marokkaans gerecht met gekruide kip, geroosterde amandelen, rozijnen en een delicaat filodeeg, afgewerkt met poedersuiker en kaneel.",
+    "ingredients": [
+        {
+            "name": "Olijfolie",
+            "quantity": "2",
+            "unit": "eetlepels"
+        },
+        {
+            "name": "Kipdijfilets zonder bot, in stukjes",
+            "quantity": "450",
+            "unit": "gram"
+        },
+        {
+            "name": "Ui, fijngehakt",
+            "quantity": "1",
+            "unit": "stuk"
+        },
+        {
+            "name": "Knoflooktenen, fijngesneden",
+            "quantity": "2",
+            "unit": "stukken"
+        },
+        {
+            "name": "Gemalen kaneel",
+            "quantity": "1",
+            "unit": "theelepel"
+        },
+        {
+            "name": "Gemalen gember",
+            "quantity": "1",
+            "unit": "theelepel"
+        },
+        {
+            "name": "Kurkuma",
+            "quantity": "0.5",
+            "unit": "theelepel"
+        },
+        {
+            "name": "Saffraan (optioneel)",
+            "quantity": "0.5",
+            "unit": "theelepel"
+        },
+        {
+            "name": "Zwarte peper",
+            "quantity": "0.5",
+            "unit": "theelepel"
+        },
+        {
+            "name": "Zout",
+            "quantity": "0.5",
+            "unit": "theelepel"
+        },
+        {
+            "name": "Kippenbouillon",
+            "quantity": "240",
+            "unit": "milliliter"
+        },
+        {
+            "name": "Eieren, losgeklopt",
+            "quantity": "3",
+            "unit": "stukken"
+        },
+        {
+            "name": "Geroosterde amandelen, gehakt",
+            "quantity": "60",
+            "unit": "milliliter"
+        },
+        {
+            "name": "Gouden rozijnen (optioneel)",
+            "quantity": "60",
+            "unit": "milliliter"
+        },
+        {
+            "name": "Suiker",
+            "quantity": "2",
+            "unit": "eetlepels"
+        },
+        {
+            "name": "Filodeeg vellen",
+            "quantity": "8",
+            "unit": "stukken"
+        },
+        {
+            "name": "Gesmolten boter",
+            "quantity": "120",
+            "unit": "milliliter"
+        },
+        {
+            "name": "Poedersuiker en kaneel, voor garnering",
+            "quantity": "naar smaak",
+            "unit": "none"
+        }
+    ],
+    "steps": [
+        "Verhit olijfolie in een pan en bak de fijngehakte uien en knoflook totdat ze zacht zijn.",
+        "Voeg de kip, gemalen kaneel, gember, kurkuma, saffraan, zwarte peper, zout en kippenbouillon toe. Laat 20 minuten sudderen.",
+        "Haal de kip uit de pan, trek het uit elkaar met een vork en doe het terug in de pan.",
+        "Roer langzaam de losgeklopte eieren erdoor tot het mengsel dikker wordt.",
+        "Meng de geroosterde amandelen, rozijnen en suiker erdoor en laat het mengsel afkoelen.",
+        "Leg filodeeg vellen in een ingevette ovenschaal en bestrijk elk vel met gesmolten boter.",
+        "Vul de schaal met het kipmengsel, vouw het deeg eroverheen en voeg eventueel extra filodeeg vellen toe.",
+        "Bak 30-35 minuten op 190 graden Celsius totdat het goudbruin is.",
+        "Bestrooi met poedersuiker en kaneel voor het serveren."
+    ],
+    "votes": 0,
+    "rating": 0,
+    "reviews": [],
+    "image": "https://www.leukerecepten.nl/app/uploads/2013/10/pastilla_met_kip.jpg"
+}

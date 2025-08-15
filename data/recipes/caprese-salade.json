@@ -1,0 +1,68 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Caprese salade",
+    "description": "In vergelijking met de klassieke versie verzamelt deze caprese salade in een originele ovenschaalpresentatie ook andere ingrediënten. Naast mozzarella en tomaat bevat het recept: sneetjes brood, groenten zoals courgette en komkommer, en geroosterde pompoenpitten. Oregano en limoen geven tenslotte dat geurige tintje aan deze frisse en smakelijke salade, perfect voor de zomer!",
+    "ingredients": [
+        {
+            "name": "Mozzarella",
+            "quantity": "3",
+            "unit": "stuks"
+        },
+        {
+            "name": "Tomaten (stevig en rijp)",
+            "quantity": "3",
+            "unit": "stuks"
+        },
+        {
+            "name": "Komkommer",
+            "quantity": "1",
+            "unit": "stuk"
+        },
+        {
+            "name": "Kleine verse courgettes",
+            "quantity": "3",
+            "unit": "stuks"
+        },
+        {
+            "name": "Limoen",
+            "quantity": "1",
+            "unit": "stuk"
+        },
+        {
+            "name": "Pompoenpitten",
+            "quantity": "3",
+            "unit": "eetlepels"
+        },
+        {
+            "name": "Medium baguette",
+            "quantity": "1",
+            "unit": "stuk"
+        },
+        {
+            "name": "Verse oregano",
+            "quantity": "naar smaak",
+            "unit": "geen"
+        },
+        {
+            "name": "Extra vergine olijfolie",
+            "quantity": "6",
+            "unit": "eetlepels"
+        },
+        {
+            "name": "Zout",
+            "quantity": "naar smaak",
+            "unit": "geen"
+        }
+    ],
+    "steps": [
+        "Was en verwijder de uiteinden van de courgettes en komkommer. Schil de komkommer gedeeltelijk en snijd in plakjes. Snijd de courgettes in zeer dunne plakjes. Bereid de marinade voor door de limoen uit te knijpen en het sap in een kom te doen. Voeg olie, zout en een paar blaadjes verse oregano toe.",
+        "Leg de groenten op twee verschillende borden, zout ze en besprenkel met de marinade. Laat dit ongeveer 15 minuten marineren.",
+        "Snijd de baguette in ronde sneetjes en rooster ze lichtjes op een hete plaat. Laat ze op een rooster afkoelen. Snijd de tomaten en mozzarella in plakjes.",
+        "Rooster ook de pompoenpitten. Begin met het opmaken van de serveerschaal door de verschillende plakjes ingrediënten afwisselend te leggen naar eigen smaak.",
+        "Breng de salade op smaak met de overgebleven marinade en grofgehakte pompoenpitten. Garneer met verse oregano en serveer."
+    ],
+    "votes": 0,
+    "rating": 0,
+    "reviews": [],
+    "image": "https://www.cucchiaio.it/content/cucchiaio/it/ricette/2016/06/insalata-caprese/jcr:content/header-par/image-single.img10.jpg/1466499942930.jpg"
+}
